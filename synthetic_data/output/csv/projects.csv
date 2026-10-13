@@ -1,0 +1,11 @@
+project_id,code,name,department_id,manager_id,client,status,priority,health,start_date,target_end_date,budget_usd
+1,PRJ-001,Granite Data Warehouse,1,9,Lee Group,Completed,Medium,Green,2025-07-27,2026-02-05,425000.0
+2,PRJ-002,Cobalt Billing Engine,5,39,White-Ford,Active,Low,Green,2026-02-10,2026-06-29,335000.0
+3,PRJ-003,Delta Analytics Suite,6,45,Morton-Chase,On Hold,Critical,Green,2026-01-16,2026-10-05,555000.0
+4,PRJ-004,Nimbus Cloud Provisioning,1,9,Pearson PLC,Active,Medium,Amber,2026-01-25,2026-11-13,385000.0
+5,PRJ-005,Iris Notification Service,3,25,House and Sons,Completed,Critical,Green,2025-04-27,2025-08-08,345000.0
+6,PRJ-006,Falcon Identity Service,3,25,Tucker-Lewis,Active,Critical,Red,2026-02-20,2026-09-11,330000.0
+7,PRJ-007,Keystone API Gateway,4,33,Martin Inc,Active,Medium,Green,2026-05-22,2027-03-17,570000.0
+8,PRJ-008,Everest Mobile App,1,9,House-Glover,Planned,Low,Green,2026-11-05,2027-06-09,350000.0
+9,PRJ-009,Orion Search Service,6,45,Horton-Cross,Active,Medium,Red,2026-04-07,2027-01-23,740000.0
+10,PRJ-010,Beacon Customer Portal,2,21,"Higgins, Moore and Phillips",On Hold,Medium,Amber,2026-07-21,2027-03-04,675000.0

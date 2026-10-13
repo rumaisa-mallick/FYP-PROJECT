@@ -1,0 +1,7 @@
+department_id,name,cost_center,location
+1,Engineering,CC-1001,London
+2,Platform & DevOps,CC-1002,Manchester
+3,Data & AI,CC-1003,London
+4,Quality Assurance,CC-1004,Leeds
+5,Product Management,CC-1005,London
+6,Design,CC-1006,Bristol

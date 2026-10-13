@@ -1,0 +1,20 @@
+{
+  "as_of": "2026-10-14",
+  "counts": {
+    "departments": 6,
+    "skills": 34,
+    "employees": 50,
+    "projects": 10,
+    "tasks": 300,
+    "task_dependencies": 171
+  },
+  "risk_signals": {
+    "overdue_tasks": 37,
+    "blocked_tasks": 21,
+    "unassigned_tasks": 18,
+    "overallocated_employees": 2,
+    "dependency_order_violations": 21,
+    "red_projects": 2,
+    "amber_projects": 2
+  }
+}

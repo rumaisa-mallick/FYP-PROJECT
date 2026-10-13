@@ -1,0 +1,301 @@
+task_id,project_id,title,description,required_skill_id,assignee_id,status,priority,complexity,estimated_hours,actual_hours,start_date,due_date,completed_date,created_at
+1,9,Implement service (Leadership),Often my security arm once me system church.,33,50,Blocked,Medium,3,10.1,,2026-11-29,2026-12-07,,2026-11-29 13:00:00
+2,3,Implement dashboard (React),Bag control organization push dog build three east organization people information on mission various daughter.,10,50,In Progress,High,5,21.2,,2026-12-01,2026-12-07,,2026-12-01 10:00:00
+3,10,Implement pipeline (CI/CD),Draw how public feel first sell authority leader your you available defense.,15,17,Done,Low,3,23.4,29.3,2026-08-06,2026-08-09,2026-08-12,2026-08-06 14:00:00
+4,6,Integrate dashboard (Node.js),Car give attention each expect just myself few worker southern more.,2,,In Review,Medium,4,22.8,,2026-10-18,2026-10-30,,2026-10-18 15:00:00
+5,7,Design dashboard (Python),Federal professional voice care break blood network evening painting response data plant enough major town.,1,38,In Progress,High,1,9.0,,2026-09-27,2026-09-29,,2026-09-27 17:00:00
+6,7,Integrate endpoint (CI/CD),Begin interest everybody about side PM energy.,15,11,To Do,Medium,3,15.9,,2026-11-09,2026-11-12,,2026-11-09 14:00:00
+7,5,Migrate module (C#/.NET),Necessary into act away third tough nation strong old challenge camera final together.,4,21,Done,Medium,4,20.1,18.5,2025-05-04,2025-05-12,2025-05-16,2025-05-04 09:00:00
+8,9,Document service (TypeScript),Together decide economic bill sister this image.,9,49,Done,High,4,14.3,19.6,2026-08-27,2026-08-29,2026-09-05,2026-08-27 12:00:00
+9,6,Document data model (REST API Design),See understand door class son computer include conference under site in prove same easy city red.,6,31,Done,Low,1,6.5,8.4,2026-04-17,2026-04-19,2026-04-22,2026-04-17 17:00:00
+10,7,Design pipeline (Linux),The teach develop staff least figure somebody dinner age cover foreign ten.,17,34,Done,Critical,5,15.8,14.1,2026-07-29,2026-07-31,2026-07-31,2026-07-29 17:00:00
+11,7,Optimise UI component (Node.js),Go meeting quickly such former agree theory end oil worker although.,2,38,Backlog,Critical,2,14.9,,2026-11-01,2026-11-09,,2026-11-01 17:00:00
+12,1,Refactor workflow (Python),Its rock finish paper memory history office effort remember ability understand Mrs rest score provide hair.,1,9,Done,Medium,2,7.9,8.2,2025-09-27,2025-10-05,2025-10-09,2025-09-27 14:00:00
+13,2,Harden dashboard (Leadership),We TV perhaps professional by tonight medical project.,33,39,In Progress,Low,5,35.0,,2026-10-08,2026-10-16,,2026-10-08 13:00:00
+14,2,Refactor workflow (Leadership),I fast camera inside wait quality total past feeling nature a expert.,33,39,Done,Medium,4,16.2,12.2,2026-06-10,2026-06-20,2026-06-23,2026-06-10 17:00:00
+15,4,Refactor endpoint (SQL),Size parent focus kid put memory soldier where save probably exist professional people.,7,1,Blocked,Medium,4,18.9,,2026-09-14,2026-09-24,,2026-09-14 14:00:00
+16,6,Optimise workflow (NLP),Stand seem pull different current agency each little.,21,30,In Progress,Medium,1,5.4,,2026-10-24,2026-10-26,,2026-10-24 18:00:00
+17,9,Test UI component (HTML/CSS),Lay though offer responsibility himself hundred challenge reach.,11,47,In Review,Low,1,3.9,,2026-11-24,2026-11-26,,2026-11-24 15:00:00
+18,7,Harden UI component (Test Planning),Sing despite sound receive let newspaper true building.,27,37,In Progress,Critical,5,34.3,,2026-10-29,2026-11-05,,2026-10-29 08:00:00
+19,4,Integrate service (Node.js),Soon property write other wear through partner rest measure.,2,9,In Progress,Low,3,17.3,,2026-11-23,2026-11-26,,2026-11-23 15:00:00
+20,9,Implement endpoint (Communication),Knowledge city technology late seem style everyone sing machine dream key require doctor from throw.,32,49,Backlog,Medium,2,9.9,,2026-10-04,2026-10-10,,2026-10-04 15:00:00
+21,10,Optimise module (CI/CD),Catch discuss really relationship ask imagine my indeed.,15,,Done,Medium,5,33.3,39.1,2026-09-02,2026-09-13,2026-09-16,2026-09-02 13:00:00
+22,1,Document pipeline (HTML/CSS),Strategy hope show watch affect thing offer local wall fear.,11,39,Done,High,4,18.8,14.2,2025-12-26,2025-12-31,2026-01-03,2025-12-26 17:00:00
+23,8,Optimise dashboard (Node.js),Table well industry section national owner determine detail job ahead from quickly identify.,2,9,Backlog,High,3,19.1,,2026-11-05,2026-09-27,,2026-11-05 10:00:00
+24,10,Integrate service (REST API Design),Subject try wonder move trade option production base investment.,6,31,Backlog,Critical,4,16.6,,2026-12-02,2026-12-05,,2026-12-02 18:00:00
+25,4,Instrument scheduler (React),Consider employee force lawyer front they everything week instead strong like see appear weight.,10,6,To Do,Low,2,13.2,,2026-11-20,2026-11-24,,2026-11-20 17:00:00
+26,3,Migrate dashboard (Agile/Scrum),Practice sit prepare senior wear current after charge call prove.,34,45,Blocked,Medium,4,17.6,,2026-12-07,2026-12-12,,2026-12-07 14:00:00
+27,5,Refactor dashboard (SQL),Way let eight hard paper white responsibility sing clearly find official up office traditional heart.,7,30,Done,High,2,15.8,20.7,2025-05-29,2025-05-31,2025-06-05,2025-05-29 09:00:00
+28,8,Document data model (Go),Away real physical big significant sure outside building worker site.,5,9,Backlog,Low,4,33.7,,2026-11-05,2026-10-30,,2026-11-05 13:00:00
+29,2,Design scheduler (JavaScript),Mouth product attention positive actually information majority item gun through least check.,8,41,Backlog,Medium,3,13.0,,2026-11-02,2026-11-06,,2026-11-02 15:00:00
+30,7,Refactor service (Test Planning),Safe whole establish space Mrs low itself room environmental.,27,37,Backlog,Low,1,3.1,,2026-11-14,2026-11-23,,2026-11-14 11:00:00
+31,4,Implement UI component (React),Store beautiful think during let particular her agreement surface consider.,10,6,In Progress,High,4,13.5,,2026-11-15,2026-11-25,,2026-11-15 13:00:00
+32,2,Document scheduler (Communication),Great election evidence other they new might course drop image.,32,39,Blocked,Low,2,14.0,,2026-09-17,2026-09-27,,2026-09-17 08:00:00
+33,7,Design service (REST API Design),Serve real position make society behavior develop reality fill ok list most international second former.,6,38,Backlog,Medium,3,22.5,,2026-11-14,2026-11-27,,2026-11-14 13:00:00
+34,6,Migrate service (Data Engineering),Even edge building court build movie several continue describe machine right with modern executive.,23,,Blocked,High,2,16.0,,2026-10-23,2026-10-27,,2026-10-23 12:00:00
+35,2,Instrument dashboard (React),Strategy fast guess few remain call animal approach.,10,,In Progress,Medium,1,4.9,,2026-11-10,2026-11-15,,2026-11-10 13:00:00
+36,9,Optimise data model (JavaScript),Recently call than make their off light key continue anything wait.,8,48,In Progress,High,3,13.9,,2026-11-05,2026-11-13,,2026-11-05 12:00:00
+37,9,Document pipeline (Agile/Scrum),Box assume man officer rather charge specific we be easy newspaper indicate other peace.,34,45,Done,Medium,4,13.9,10.7,2026-08-20,2026-08-26,2026-08-29,2026-08-20 15:00:00
+38,4,Design service (Python),Herself training father open investment notice art whether between several personal enough ball dream necessary.,1,9,In Review,Medium,3,20.1,,2026-10-15,2026-10-19,,2026-10-15 10:00:00
+39,9,Design scheduler (Leadership),Able late order fact discuss religious reflect law reach.,33,,Done,Low,4,12.8,17.5,2026-07-04,2026-07-11,2026-07-15,2026-07-04 13:00:00
+40,4,Integrate module (Node.js),Skin person product value interesting name positive training step author coach.,2,9,To Do,Medium,5,19.1,,2026-10-20,2026-10-23,,2026-10-20 12:00:00
+41,9,Design scheduler (Agile/Scrum),Organization station TV keep light fight I evening music just our.,34,,Done,Medium,4,17.1,13.6,2026-08-07,2026-08-12,2026-08-11,2026-08-07 09:00:00
+42,9,Instrument pipeline (UX Research),Same page ago director purpose team onto again share start office several compare.,28,45,To Do,Medium,3,21.8,,2026-10-13,2026-10-26,,2026-10-13 11:00:00
+43,9,Document scheduler (JavaScript),Prepare trouble consider one play man before girl four prove tax form really explain war.,8,,Done,Medium,3,19.0,25.1,2026-08-24,2026-08-29,2026-09-05,2026-08-24 16:00:00
+44,4,Test pipeline (SQL),Already because education break significant ten stay ability thank left approach million performance material kind.,7,28,In Review,Critical,5,17.2,,2026-11-18,2026-11-28,,2026-11-18 10:00:00
+45,4,Refactor dashboard (Python),Data near until just recognize building win.,1,8,Backlog,Medium,1,6.1,,2026-10-24,2026-10-30,,2026-10-24 11:00:00
+46,7,Test UI component (CI/CD),Son report financial add impact different success box water positive child usually factor relate indeed lot.,15,11,In Progress,Medium,3,11.3,,2026-10-16,2026-10-26,,2026-10-16 13:00:00
+47,9,Implement scheduler (Communication),During necessary himself two meet these tell everybody so increase various meet star executive.,32,48,Backlog,Low,1,8.0,,2026-11-16,2026-11-21,,2026-11-16 18:00:00
+48,6,Optimise UI component (Data Engineering),Study oil process tend land machine forward several help usually thank.,23,27,Done,High,3,17.7,20.9,2026-04-30,2026-05-09,2026-05-08,2026-04-30 10:00:00
+49,3,Harden scheduler (Agile/Scrum),Occur do simply analysis seat relate specific history professional star.,34,45,Blocked,High,3,22.2,,2026-09-21,2026-10-02,,2026-09-21 11:00:00
+50,2,Instrument pipeline (SQL),Manager already maybe opportunity thank them key moment lead.,7,28,In Progress,High,3,26.0,,2026-12-06,2026-12-12,,2026-12-06 15:00:00
+51,10,Migrate UI component (Kubernetes),Improve pressure child light wide full realize power system.,14,20,Backlog,Medium,4,33.1,,2026-11-06,2026-11-14,,2026-11-06 18:00:00
+52,7,Test data model (Go),Here first responsibility service their along attention piece TV young section its better plant their.,5,9,Backlog,Low,5,15.2,,2026-10-31,2026-11-08,,2026-10-31 11:00:00
+53,4,Optimise workflow (Go),Coach federal ahead food argue grow issue each include radio conference company participant.,5,3,In Progress,Medium,1,5.3,,2026-11-13,2026-11-24,,2026-11-13 16:00:00
+54,10,Integrate pipeline (Azure),People drive tree central leave effect effort act source top quality citizen.,19,19,In Progress,Medium,2,8.4,,2026-10-03,2026-10-09,,2026-10-03 13:00:00
+55,10,Harden scheduler (REST API Design),War write federal while real lead few yourself table blood high grow fast.,6,38,Done,Medium,2,10.7,13.7,2026-09-29,2026-10-05,2026-10-11,2026-09-29 08:00:00
+56,4,Implement UI component (HTML/CSS),Against stop how account ten sing wind treat seat strategy total.,11,12,Done,Medium,1,8.9,12.3,2026-01-31,2026-02-08,2026-02-10,2026-01-31 15:00:00
+57,2,Instrument integration (Communication),Parent good PM per question return process stuff pick tough.,32,39,In Review,Medium,2,15.9,,2026-10-26,2026-10-28,,2026-10-26 16:00:00
+58,9,Integrate workflow (Figma),Final kid often run bed far section.,30,25,In Review,Medium,1,7.2,,2026-11-06,2026-11-15,,2026-11-06 16:00:00
+59,4,Migrate workflow (Accessibility),Customer skill theory hand maybe evening clearly trial want.,12,11,To Do,Low,3,20.0,,2026-10-23,2026-10-30,,2026-10-23 15:00:00
+60,4,Harden module (Accessibility),Second full boy while cell whom team right woman whose source.,12,11,In Progress,Medium,3,14.2,,2026-11-03,2026-11-10,,2026-11-03 13:00:00
+61,10,Integrate endpoint (Linux),Bed house enough buy happy see energy herself police he push likely.,17,20,Done,Low,3,22.5,17.9,2026-08-16,2026-08-27,2026-08-29,2026-08-16 18:00:00
+62,2,Migrate scheduler (JavaScript),This no trip determine as statement travel few impact cause watch fight manage best thought career.,8,43,Done,Medium,4,19.9,27.6,2026-03-17,2026-03-20,2026-03-26,2026-03-17 18:00:00
+63,2,Document pipeline (HTML/CSS),He we recent music onto risk those pressure street past voice evidence real describe.,11,44,Done,Low,3,14.1,17.2,2026-07-23,2026-07-28,2026-08-03,2026-07-23 08:00:00
+64,10,Migrate data model (Docker),Wear talk between rate name within grow huge couple business summer lawyer production.,13,22,Done,High,4,16.5,15.0,2026-08-27,2026-08-29,2026-08-27,2026-08-27 16:00:00
+65,5,Optimise dashboard (Java),Wife anything four writer skin day stop never only spend do similar small other everyone worker.,3,,Done,Low,5,29.0,34.9,2025-05-10,2025-05-21,2025-05-23,2025-05-10 17:00:00
+66,7,Migrate workflow (C#/.NET),Music sometimes body term capital group small open administration.,4,38,In Progress,Medium,2,13.3,,2026-11-02,2026-11-05,,2026-11-02 11:00:00
+67,1,Harden pipeline (SQL),Appear score moment second live sing message board mean war analysis.,7,1,Done,Medium,2,11.4,13.2,2025-12-23,2025-12-24,2025-12-26,2025-12-23 14:00:00
+68,7,Test workflow (Test Planning),Feeling poor all your suggest international blue Republican kitchen tonight focus chance call person one.,27,37,Blocked,Medium,3,21.4,,2026-10-24,2026-10-30,,2026-10-24 14:00:00
+69,8,Test module (JavaScript),Herself our far measure involve soldier boy pressure there necessary tend involve.,8,9,To Do,High,5,39.1,,2026-11-16,2026-11-23,,2026-11-16 08:00:00
+70,9,Integrate scheduler (Prototyping),Including still human role fine fine effort well rather listen.,31,45,In Progress,Low,2,12.9,,2026-10-11,2026-10-23,,2026-10-11 08:00:00
+71,5,Instrument UI component (NLP),Story behavior benefit school speech news only no.,21,,Done,Low,4,23.0,20.2,2025-06-05,2025-06-08,2025-06-12,2025-06-05 09:00:00
+72,1,Document pipeline (REST API Design),Prove improve them wait institution trouble anything explain fine billion medical choice.,6,,In Review,Low,1,6.2,,2026-09-06,2026-09-14,,2026-09-06 10:00:00
+73,8,Design workflow (Accessibility),Difference board suddenly happen several off southern suddenly window stand party poor ago upon.,12,45,Backlog,High,4,21.0,,2026-11-05,2026-11-09,,2026-11-05 09:00:00
+74,2,Document endpoint (Agile/Scrum),Ahead event several TV go consider century price attorney scientist will.,34,39,To Do,High,4,24.7,,2026-10-05,2026-10-13,,2026-10-05 11:00:00
+75,5,Refactor UI component (Java),Second Democrat information game have return since nothing.,3,25,Done,High,3,12.4,15.3,2025-04-27,2025-05-03,2025-05-10,2025-04-27 08:00:00
+76,5,Test workflow (Data Engineering),Third choose senior anyone bank kitchen interest parent.,23,28,Done,Low,1,4.5,3.6,2025-07-02,2025-07-06,2025-07-04,2025-07-02 17:00:00
+77,6,Design integration (Data Engineering),Event sense box involve exist question main project animal house out account feeling.,23,28,Blocked,High,3,13.3,,2026-11-05,2026-11-11,,2026-11-05 16:00:00
+78,5,Design scheduler (REST API Design),Should share face build market issue can mouth discover next.,6,31,Done,Medium,4,30.9,25.6,2025-05-12,2025-05-21,2025-05-25,2025-05-12 08:00:00
+79,6,Instrument service (SQL),Author technology amount affect TV television office of remember individual boy again.,7,30,To Do,Medium,5,30.9,,2026-10-09,2026-10-21,,2026-10-09 12:00:00
+80,4,Instrument module (React),Commercial way least ready gun join black job hundred bad that second.,10,2,Done,Low,5,16.2,21.2,2026-05-09,2026-05-18,2026-05-19,2026-05-09 15:00:00
+81,10,Optimise data model (AWS),Four collection member box member town glass road standard spring.,18,17,To Do,Medium,5,36.1,,2026-10-22,2026-11-03,,2026-10-22 15:00:00
+82,5,Harden pipeline (Machine Learning),Bill eight community check service away week physical less nor.,20,27,Done,Medium,3,25.5,18.1,2025-07-05,2025-07-12,2025-07-12,2025-07-05 11:00:00
+83,4,Optimise pipeline (SQL),Large under north play person ten physical character attention kind field ever argue medical financial later.,7,2,Done,Medium,5,40.0,55.1,2026-07-12,2026-07-22,2026-07-27,2026-07-12 10:00:00
+84,8,Document pipeline (JavaScript),Hard expert popular within bed order his oil.,8,14,Backlog,Medium,2,17.0,,2026-11-05,2026-10-12,,2026-11-05 18:00:00
+85,2,Document service (TypeScript),Last special prepare focus little character artist.,9,43,Backlog,Medium,1,4.3,,2026-11-16,2026-11-24,,2026-11-16 08:00:00
+86,6,Integrate dashboard (Go),Specific study word base position always remain yard.,5,27,Done,Low,5,44.3,34.3,2026-08-05,2026-08-18,2026-08-18,2026-08-05 13:00:00
+87,3,Implement module (UI Design),Mission city health executive impact full our smile positive at behind question exist rich prevent.,29,50,In Review,Medium,1,5.2,,2026-10-25,2026-10-30,,2026-10-25 14:00:00
+88,4,Refactor data model (TypeScript),Their four old center glass whose recognize hot organization visit finally heavy social spend prove stock.,9,8,Backlog,Low,4,13.3,,2026-10-31,2026-11-12,,2026-10-31 08:00:00
+89,2,Optimise service (Leadership),Behavior provide meet adult final week game she court yourself choice fast small medical music.,33,,Blocked,Low,3,9.8,,2026-11-10,2026-11-21,,2026-11-10 11:00:00
+90,6,Refactor data model (SQL),Also from short capital heavy class story side speak close join improve put down know.,7,27,In Review,Medium,1,4.8,,2026-11-19,2026-11-28,,2026-11-19 13:00:00
+91,1,Optimise data model (SQL),Sell six doctor dream whole six tough create question now key.,7,12,Done,Medium,2,16.1,11.6,2025-12-20,2025-12-28,2025-12-31,2025-12-20 14:00:00
+92,4,Design integration (HTML/CSS),Sing me industry class current painting their appear lose he various.,11,12,In Review,Low,5,34.8,,2026-11-24,2026-11-30,,2026-11-24 13:00:00
+93,4,Implement module (Node.js),Surface expect several evening town challenge join watch develop later glass ago apply maybe dog.,2,9,Done,Medium,1,8.7,7.2,2026-03-16,2026-03-19,2026-03-18,2026-03-16 13:00:00
+94,6,Instrument UI component (Pandas),Heart agreement us stuff practice social case expert.,22,31,Backlog,High,5,38.5,,2026-11-27,2026-12-04,,2026-11-27 16:00:00
+95,2,Harden endpoint (Communication),Receive catch relationship large accept bad eight strong nature road month book explain feeling.,32,39,In Progress,Medium,2,7.7,,2026-09-25,2026-09-30,,2026-09-25 18:00:00
+96,5,Test pipeline (Pandas),Draw police performance artist student matter movie.,22,30,Done,Low,2,11.5,11.1,2025-06-11,2025-06-17,2025-06-24,2025-06-11 12:00:00
+97,3,Document dashboard (Agile/Scrum),Middle drop century investment pass drive indicate professor beat window attack moment medical write never hospital.,34,45,In Progress,Low,2,11.7,,2026-11-21,2026-12-02,,2026-11-21 14:00:00
+98,4,Document scheduler (React),Analysis hit health section ground attack drop price billion old series card good full.,10,8,Done,Medium,2,13.1,13.2,2026-01-31,2026-02-09,2026-02-10,2026-01-31 10:00:00
+99,7,Document data model (C#/.NET),Store range wonder long consider care respond want already.,4,38,Done,High,3,20.9,21.6,2026-06-02,2026-06-12,2026-06-19,2026-06-02 08:00:00
+100,9,Document workflow (UX Research),Analysis current among value middle writer myself education send course.,28,49,Backlog,High,5,32.8,,2026-11-17,2026-11-27,,2026-11-17 14:00:00
+101,1,Design workflow (Node.js),Television answer pretty event son join hundred keep what fund cost reality.,2,9,Done,High,3,13.0,12.5,2026-01-16,2026-01-21,2026-01-26,2026-01-16 08:00:00
+102,5,Migrate module (Go),Under mind song risk bad own state nation fly bag produce fill.,5,27,Done,Low,4,34.1,31.3,2025-07-27,2025-08-03,2025-08-06,2025-07-27 15:00:00
+103,8,Instrument data model (JavaScript),Response coach know language risk treatment past itself police social arm provide image message seek civil.,8,47,To Do,Low,3,10.2,,2026-11-05,2026-10-03,,2026-11-05 10:00:00
+104,6,Instrument scheduler (REST API Design),Central parent sit alone attack sing hand.,6,31,Done,Medium,5,27.8,31.9,2026-07-29,2026-08-04,2026-08-04,2026-07-29 17:00:00
+105,4,Migrate data model (Python),We allow check last he know baby case happen fire everything whether ago.,1,8,Done,High,2,8.5,7.1,2026-02-25,2026-02-27,2026-03-05,2026-02-25 18:00:00
+106,3,Refactor pipeline (UI Design),Material hit no energy employee land you experience trouble.,29,50,In Progress,Low,5,26.8,,2026-10-13,2026-10-27,,2026-10-13 13:00:00
+107,2,Design data model (HTML/CSS),Customer career available common require young specific whose worry property remember nearly face feel.,11,44,In Progress,High,1,4.1,,2026-10-14,2026-10-24,,2026-10-14 10:00:00
+108,5,Migrate integration (Java),Republican until point soldier meeting building cut catch so.,3,14,Done,Medium,2,9.8,7.8,2025-06-11,2025-06-12,2025-06-17,2025-06-11 18:00:00
+109,5,Migrate data model (Machine Learning),Guess occur level work candidate this assume.,20,26,Done,Medium,4,16.0,14.3,2025-05-21,2025-05-27,2025-05-25,2025-05-21 16:00:00
+110,2,Instrument dashboard (JavaScript),Yourself rest moment shoulder statement available win politics last quite general there sister.,8,9,In Progress,High,3,23.0,,2026-10-08,2026-10-18,,2026-10-08 08:00:00
+111,5,Test pipeline (REST API Design),Consider whom item treat area buy check clearly follow remember generation wait thus suffer economy play.,6,31,Done,Critical,1,5.6,6.6,2025-05-24,2025-05-28,2025-06-04,2025-05-24 11:00:00
+112,9,Refactor pipeline (JavaScript),Ever person pass behavior political option oil commercial person top front under American tell ball.,8,48,In Progress,Medium,5,25.5,,2026-11-22,2026-11-30,,2026-11-22 14:00:00
+113,10,Document integration (Go),Enough decision occur peace air threat nation politics few each southern image law read citizen.,5,21,Backlog,Low,2,14.4,,2026-10-19,2026-10-31,,2026-10-19 15:00:00
+114,1,Refactor scheduler (Node.js),Machine daughter parent fine responsibility safe team wish candidate have no five letter.,2,1,In Review,Medium,4,24.4,,2026-09-21,2026-10-02,,2026-09-21 18:00:00
+115,7,Design UI component (REST API Design),Last cell anything war ten industry while total spend value return.,6,38,Blocked,Medium,1,7.8,,2026-11-11,2026-11-16,,2026-11-11 15:00:00
+116,9,Document endpoint (Leadership),Several marriage method material final age war measure whom Democrat.,33,,Done,Medium,1,3.3,3.3,2026-04-10,2026-04-12,2026-04-12,2026-04-10 10:00:00
+117,9,Harden endpoint (Accessibility),Any example our successful pull experience account blue care enough hand idea.,12,45,Backlog,High,2,16.5,,2026-10-14,2026-10-21,,2026-10-14 14:00:00
+118,7,Optimise module (Automated Testing),Hundred now crime network available mean share.,24,,Backlog,Medium,1,3.0,,2026-11-20,2026-11-28,,2026-11-20 14:00:00
+119,8,Design pipeline (JavaScript),Stay perhaps particularly campaign benefit health would newspaper hand certain own.,8,14,To Do,Low,1,4.4,,2026-11-05,2026-10-02,,2026-11-05 09:00:00
+120,6,Design module (Python),Matter and case four listen lead paper middle foreign party class wrong school.,1,30,Done,Medium,5,34.5,39.0,2026-07-28,2026-08-04,2026-08-08,2026-07-28 17:00:00
+121,8,Implement dashboard (REST API Design),Order medical meeting majority none little admit former body indicate film.,6,14,Backlog,Low,4,19.5,,2026-11-05,2026-09-26,,2026-11-05 11:00:00
+122,6,Refactor data model (NLP),Ago listen whose situation simply officer return on color pick people subject challenge quite all way.,21,30,Backlog,Medium,2,15.0,,2026-10-22,2026-10-31,,2026-10-22 08:00:00
+123,10,Implement UI component (REST API Design),Course kid industry include data maybe particularly likely.,6,38,In Progress,High,2,10.6,,2026-10-19,2026-10-27,,2026-10-19 09:00:00
+124,1,Design dashboard (C#/.NET),Relationship million night your long heavy what least.,4,12,Done,Critical,1,8.5,8.5,2025-09-30,2025-10-09,2025-10-13,2025-09-30 09:00:00
+125,3,Instrument service (Prototyping),Garden great sign return poor really particular court east newspaper different win father eye debate.,31,50,In Progress,Low,2,17.7,,2026-11-21,2026-12-03,,2026-11-21 11:00:00
+126,1,Optimise data model (SQL),First give value somebody event business quality here woman stand west source fact explain.,7,6,Done,Medium,1,5.7,4.0,2026-01-30,2026-02-02,2026-02-01,2026-01-30 16:00:00
+127,9,Test module (Agile/Scrum),Get kind either look dark Mrs usually receive.,34,45,Done,Low,3,12.0,11.2,2026-06-13,2026-06-16,2026-06-14,2026-06-13 15:00:00
+128,5,Implement endpoint (REST API Design),Body scientist dream anything toward difficult do beyond form.,6,31,Done,Medium,1,6.0,7.0,2025-05-28,2025-05-30,2025-06-06,2025-05-28 08:00:00
+129,5,Refactor UI component (SQL),Beyond side accept nearly upon imagine various there local current white fly position traditional.,7,28,Done,Critical,2,8.1,7.5,2025-08-01,2025-08-08,2025-08-09,2025-08-01 13:00:00
+130,2,Refactor data model (SQL),Present discussion school sure also TV individual study.,7,43,Backlog,Medium,2,8.7,,2026-12-03,2026-12-11,,2026-12-03 15:00:00
+131,1,Integrate endpoint (C#/.NET),Young however many view while unit theory.,4,13,Done,Medium,3,19.1,26.4,2025-11-17,2025-11-25,2025-12-02,2025-11-17 10:00:00
+132,1,Instrument data model (SQL),Fear owner up friend lawyer political modern.,7,3,Done,Medium,1,4.4,5.4,2025-07-27,2025-07-30,2025-07-28,2025-07-27 11:00:00
+133,4,Refactor UI component (Python),Surface life cover both class learn either control say.,1,11,Blocked,Low,2,14.5,,2026-11-10,2026-11-18,,2026-11-10 09:00:00
+134,5,Optimise workflow (Data Engineering),Nothing serious compare task today still middle beautiful protect continue cell.,23,28,Done,Medium,4,13.8,12.2,2025-05-10,2025-05-15,2025-05-17,2025-05-10 15:00:00
+135,3,Instrument scheduler (TypeScript),Very according himself land environment form old of end growth door property.,9,49,Backlog,High,2,7.6,,2026-09-21,2026-09-29,,2026-09-21 12:00:00
+136,5,Optimise integration (Node.js),Fill if maybe time region financial brother trouble far pass despite card check security.,2,26,Done,High,1,3.9,5.0,2025-07-25,2025-07-26,2025-07-27,2025-07-25 16:00:00
+137,1,Refactor pipeline (Go),Health reduce tree serious soon stay seven quite other skin moment month gun true born stock.,5,3,Blocked,Low,3,23.8,,2026-09-06,2026-09-16,,2026-09-06 09:00:00
+138,1,Instrument scheduler (C#/.NET),Dark Mr clearly take kind quite response major together knowledge argue car indeed nor.,4,15,Done,Medium,2,8.4,9.3,2026-01-07,2026-01-09,2026-01-16,2026-01-07 10:00:00
+139,1,Design dashboard (REST API Design),Left southern rich how staff second official and general as yes various attorney value all.,6,7,Done,Medium,1,3.3,3.5,2025-12-14,2025-12-21,2025-12-25,2025-12-14 12:00:00
+140,5,Integrate endpoint (Java),Conference career political role white hear through large true help bag who themselves.,3,25,Done,Medium,1,6.7,6.9,2025-06-23,2025-06-30,2025-07-06,2025-06-23 18:00:00
+141,10,Design service (CI/CD),President girl condition Mr more road development about age.,15,22,In Progress,High,1,8.9,,2026-11-10,2026-11-16,,2026-11-10 13:00:00
+142,6,Implement endpoint (Python),Leg rest interest here discover leave choice country themselves she allow.,1,25,In Progress,Critical,3,10.1,,2026-10-27,2026-10-30,,2026-10-27 17:00:00
+143,9,Test UI component (UI Design),Past view threat drive attack order land public the each analysis keep music.,29,50,Backlog,Critical,3,25.8,,2026-10-27,2026-11-05,,2026-10-27 10:00:00
+144,6,Migrate service (C#/.NET),Cell year doctor trouble office officer significant stand.,4,,Backlog,Low,4,25.0,,2026-09-17,2026-09-24,,2026-09-17 13:00:00
+145,10,Integrate workflow (C#/.NET),Few century produce determine feel article we they treatment personal.,4,20,Done,Low,2,10.1,8.1,2026-08-31,2026-09-01,2026-08-31,2026-08-31 09:00:00
+146,4,Design data model (HTML/CSS),New another general poor high modern recent impact feel contain Mrs drive different.,11,44,In Progress,Medium,4,26.1,,2026-11-21,2026-12-01,,2026-11-21 17:00:00
+147,9,Test service (HTML/CSS),South trip none whose newspaper care drug data position.,11,39,Done,Medium,5,39.4,47.7,2026-06-19,2026-06-27,2026-06-27,2026-06-19 10:00:00
+148,6,Refactor workflow (Pandas),Suggest begin right couple environmental purpose owner them could seven right next look thank.,22,30,In Progress,Low,2,13.7,,2026-10-15,2026-10-20,,2026-10-15 15:00:00
+149,1,Migrate integration (C#/.NET),Field training deep couple scientist section senior trial receive region however dream.,4,27,Done,Medium,2,14.3,13.9,2026-01-27,2026-01-29,2026-01-27,2026-01-27 13:00:00
+150,6,Refactor module (Node.js),Simply herself move grow end mention market better wonder light style trial.,2,26,Done,Medium,4,30.9,23.2,2026-04-16,2026-04-23,2026-04-28,2026-04-16 13:00:00
+151,2,Design UI component (Communication),Fine animal ten scientist administration network once result far cultural discover now.,32,39,Done,Medium,2,14.8,20.6,2026-02-28,2026-03-07,2026-03-14,2026-02-28 14:00:00
+152,2,Integrate scheduler (JavaScript),Material pressure range either start whom politics make collection some.,8,39,Done,Low,3,12.7,14.8,2026-08-05,2026-08-15,2026-08-17,2026-08-05 10:00:00
+153,1,Refactor dashboard (Python),Cause national contain threat wrong whatever model stuff avoid.,1,8,Done,High,4,14.1,10.1,2025-11-23,2025-11-28,2025-11-27,2025-11-23 14:00:00
+154,5,Harden UI component (Data Engineering),Share include successful discuss religious across media.,23,27,Done,Medium,3,10.6,10.7,2025-06-09,2025-06-15,2025-06-15,2025-06-09 08:00:00
+155,2,Document data model (JavaScript),Art point value tree process administration mother in admit reveal movie expert.,8,,In Progress,High,1,7.0,,2026-10-21,2026-10-30,,2026-10-21 14:00:00
+156,10,Test pipeline (Linux),Spend purpose south travel blood benefit chance court money spring environment however health image.,17,41,To Do,Medium,4,25.7,,2026-12-05,2026-12-09,,2026-12-05 09:00:00
+157,10,Document endpoint (Kubernetes),During recently feel stock ball yard practice all if help live PM reflect bar suddenly.,14,,To Do,Low,2,17.4,,2026-10-10,2026-10-18,,2026-10-10 18:00:00
+158,2,Implement UI component (HTML/CSS),Not teach believe month amount deep test thought little another avoid understand.,11,40,Backlog,High,3,25.4,,2026-10-29,2026-11-10,,2026-10-29 17:00:00
+159,6,Integrate workflow (SQL),Nor allow up fire which onto sell require huge baby class drive strong home to.,7,28,In Review,Low,1,5.5,,2026-10-20,2026-10-22,,2026-10-20 14:00:00
+160,3,Optimise endpoint (Leadership),Himself science so ready bad seat generation best discussion away painting pass.,33,46,Backlog,Medium,4,25.7,,2026-11-11,2026-11-24,,2026-11-11 08:00:00
+161,8,Migrate workflow (Go),However similar ahead event yeah make green wait it quickly produce beat peace something require bank.,5,3,Backlog,High,3,9.4,,2026-11-05,2026-11-16,,2026-11-05 12:00:00
+162,8,Design module (React),Here six child hope guess before wall know seven.,10,44,To Do,Low,1,4.1,,2026-11-24,2026-12-03,,2026-11-24 12:00:00
+163,8,Instrument dashboard (SQL),Car cost large never impact ago government behavior.,7,12,Backlog,Medium,2,15.4,,2026-11-05,2026-10-07,,2026-11-05 13:00:00
+164,9,Optimise workflow (Prototyping),Six tell activity including single right nice yeah drug minute rate college especially environmental certainly cold.,31,46,Backlog,Low,4,27.2,,2026-11-12,2026-11-23,,2026-11-12 10:00:00
+165,9,Document data model (Accessibility),Inside machine baby edge east person order crime blood fight we.,12,45,Backlog,Medium,1,4.7,,2026-10-25,2026-10-29,,2026-10-25 08:00:00
+166,9,Harden integration (Leadership),Success here television key issue statement prepare organization feel owner receive look.,33,46,Backlog,Low,1,5.8,,2026-10-25,2026-10-30,,2026-10-25 14:00:00
+167,9,Optimise data model (Figma),Who why fact reason make office drug heavy staff.,30,,In Progress,Medium,3,12.9,,2026-11-19,2026-11-22,,2026-11-19 18:00:00
+168,6,Harden endpoint (Go),Half usually customer young conference should agree road wall decide something story attorney.,5,30,In Progress,Medium,3,21.3,,2026-10-29,2026-11-05,,2026-10-29 10:00:00
+169,6,Harden integration (C#/.NET),Pull cause field education child institution help last our old move type thank.,4,31,In Review,High,1,7.8,,2026-11-25,2026-11-28,,2026-11-25 14:00:00
+170,4,Optimise data model (Python),Myself so growth time Mr point be shoulder price great positive and worker.,1,11,To Do,Medium,5,36.2,,2026-10-14,2026-10-30,,2026-10-14 12:00:00
+171,9,Optimise module (Leadership),Whom former someone black better develop section newspaper reach determine hear leg quickly.,33,50,Backlog,Low,5,20.4,,2026-11-25,2026-12-06,,2026-11-25 11:00:00
+172,4,Test module (Accessibility),Character young lot far turn beat story role give gas six miss give best.,12,39,In Progress,High,3,16.6,,2026-11-11,2026-11-14,,2026-11-11 15:00:00
+173,9,Migrate pipeline (Prototyping),Five feel special boy support possible quality clearly worker during company civil nice when.,31,50,To Do,Medium,1,8.2,,2026-10-06,2026-10-09,,2026-10-06 13:00:00
+174,9,Design scheduler (React),Something picture control price how scene third last involve above.,10,48,Backlog,Medium,1,5.9,,2026-10-08,2026-10-16,,2026-10-08 09:00:00
+175,2,Integrate endpoint (Communication),Day sell speak artist big the cost for leader energy.,32,46,In Progress,Critical,4,21.7,,2026-09-29,2026-10-07,,2026-09-29 08:00:00
+176,7,Harden scheduler (Linux),Month police others particularly only girl suddenly pay sport relationship father pass be care.,17,34,To Do,High,2,8.7,,2026-09-17,2026-09-27,,2026-09-17 16:00:00
+177,6,Implement endpoint (REST API Design),Draw bring health center home others offer institution main.,6,38,In Progress,Critical,4,33.3,,2026-10-30,2026-11-07,,2026-10-30 11:00:00
+178,8,Test service (Java),Really population yourself never majority cell fire late approach grow act carry spring white measure.,3,11,Backlog,Medium,2,14.8,,2026-11-24,2026-11-26,,2026-11-24 17:00:00
+179,10,Implement dashboard (Linux),Important man report kitchen cold not somebody determine allow different eye sit not significant.,17,20,Done,Low,1,6.9,5.4,2026-09-05,2026-09-13,2026-09-17,2026-09-05 14:00:00
+180,7,Refactor scheduler (Linux),Near both box simple statement happen state among rest national wrong bill stop seem.,17,34,Backlog,Medium,5,23.1,,2026-10-11,2026-10-22,,2026-10-11 11:00:00
+181,7,Migrate workflow (Selenium),Themselves allow enjoy television beautiful tend bring speech decide scene ready.,25,35,In Progress,Critical,3,24.0,,2026-10-22,2026-10-26,,2026-10-22 11:00:00
+182,1,Migrate dashboard (HTML/CSS),Plan coach cause deal deal arrive go exactly much food region eye environment teach world quickly.,11,44,Done,High,1,8.4,6.3,2025-09-02,2025-09-04,2025-09-10,2025-09-02 12:00:00
+183,5,Design pipeline (Node.js),Career seek in arrive everyone pretty reduce car.,2,26,Done,High,2,16.5,20.1,2025-07-17,2025-07-24,2025-07-28,2025-07-17 13:00:00
+184,4,Migrate integration (JavaScript),Represent stock seven put majority officer environmental increase later.,8,14,In Progress,High,5,23.0,,2026-10-14,2026-10-23,,2026-10-14 18:00:00
+185,9,Migrate pipeline (React),Idea seek reason theory lawyer maintain old than.,10,49,Blocked,High,1,3.8,,2026-10-15,2026-10-22,,2026-10-15 17:00:00
+186,4,Optimise service (REST API Design),Room learn professional group as move design involve.,6,7,Done,High,5,15.9,12.4,2026-03-25,2026-04-03,2026-04-08,2026-03-25 18:00:00
+187,6,Document pipeline (Pandas),Manager follow exist natural candidate system small thus several animal.,22,27,Done,Critical,5,21.7,16.6,2026-06-24,2026-07-05,2026-07-12,2026-06-24 16:00:00
+188,9,Migrate workflow (Communication),Six least buy tax kid a when dark read car practice city usually ever pressure economy.,32,,In Progress,Critical,1,3.1,,2026-11-13,2026-11-16,,2026-11-13 11:00:00
+189,4,Migrate scheduler (Go),Professor power appear personal rise sense investment before believe degree back order.,5,3,In Progress,Medium,1,6.0,,2026-10-13,2026-10-21,,2026-10-13 13:00:00
+190,2,Integrate endpoint (Leadership),Quite act receive stage write institution car audience him room bill finish thing case similar.,33,44,In Progress,Medium,1,3.6,,2026-10-01,2026-10-11,,2026-10-01 18:00:00
+191,7,Refactor endpoint (REST API Design),Political quality attention none particular clearly goal defense security.,6,38,Done,High,3,23.9,26.8,2026-08-06,2026-08-17,2026-08-24,2026-08-06 08:00:00
+192,4,Harden UI component (HTML/CSS),Pattern kind describe to cause but role goal investment social easy popular easy.,11,12,Backlog,Medium,3,18.9,,2026-11-11,2026-11-16,,2026-11-11 11:00:00
+193,2,Migrate scheduler (Communication),Outside parent single real summer probably feeling military meeting security far approach today west manager both.,32,39,Done,High,2,11.5,15.5,2026-03-03,2026-03-10,2026-03-08,2026-03-03 18:00:00
+194,6,Test pipeline (NLP),Point audience thousand activity guess first hit stuff inside national common likely would authority.,21,8,Done,Low,2,17.6,18.3,2026-07-05,2026-07-13,2026-07-20,2026-07-05 10:00:00
+195,1,Migrate pipeline (HTML/CSS),Attack energy always art smile media pick may indeed reduce bar Mr pattern everyone finally memory.,11,50,In Review,Medium,5,33.2,,2026-09-22,2026-09-30,,2026-09-22 10:00:00
+196,4,Design data model (Accessibility),Window choice force only shake power poor financial join well.,12,8,Done,High,5,24.0,27.3,2026-05-13,2026-05-20,2026-05-21,2026-05-13 16:00:00
+197,8,Document service (REST API Design),Around beat its law participant finally score scientist budget remain.,6,31,Backlog,Medium,1,7.6,,2026-11-23,2026-11-30,,2026-11-23 16:00:00
+198,1,Harden endpoint (SQL),Clearly well mission situation result cold camera.,7,,Done,Low,2,6.6,5.3,2025-09-02,2025-09-07,2025-09-09,2025-09-02 16:00:00
+199,1,Implement integration (JavaScript),Run brother tonight friend investment model enjoy window physical many member.,8,9,Done,High,1,6.7,5.8,2025-09-14,2025-09-23,2025-09-27,2025-09-14 14:00:00
+200,4,Integrate UI component (HTML/CSS),Matter note happy effort bill off reveal direction.,11,12,Done,Low,3,26.4,35.3,2026-05-01,2026-05-12,2026-05-13,2026-05-01 11:00:00
+201,9,Harden pipeline (HTML/CSS),Able teach activity animal hair turn condition whether along sort research pretty different eat trouble.,11,47,Backlog,Critical,3,17.1,,2026-11-22,2026-12-02,,2026-11-22 10:00:00
+202,6,Test dashboard (Go),Even back head maybe top conference source wonder west attention let executive.,5,,Backlog,High,1,5.0,,2026-09-23,2026-10-03,,2026-09-23 15:00:00
+203,9,Document module (Prototyping),Force network account customer nor fight performance less option management significant.,31,50,In Progress,High,3,10.3,,2026-11-16,2026-11-18,,2026-11-16 13:00:00
+204,2,Optimise scheduler (React),Run national somebody character usually agency must player really act.,10,2,Blocked,Medium,3,15.0,,2026-11-05,2026-11-15,,2026-11-05 11:00:00
+205,9,Optimise data model (Communication),Ability price support road billion morning draw man art young Republican behavior.,32,48,Done,Low,5,22.3,19.6,2026-07-12,2026-07-16,2026-07-20,2026-07-12 16:00:00
+206,5,Instrument integration (Python),Today mind red head window be believe card star avoid.,1,25,Done,Low,3,25.2,27.0,2025-05-07,2025-05-13,2025-05-19,2025-05-07 09:00:00
+207,2,Harden data model (Communication),Artist production candidate factor surface unit hotel story for laugh do want carry show board.,32,,In Progress,Low,1,7.5,,2026-10-19,2026-10-21,,2026-10-19 09:00:00
+208,6,Refactor UI component (C#/.NET),Clearly letter image movie who debate final enter.,4,27,In Progress,Medium,3,16.3,,2026-10-28,2026-11-09,,2026-10-28 08:00:00
+209,8,Implement scheduler (Node.js),Bed space fight relate owner Democrat task chance represent.,2,9,To Do,Low,3,25.7,,2026-11-05,2026-10-21,,2026-11-05 10:00:00
+210,6,Optimise service (Java),How any federal star community weight take new nearly behind big soldier.,3,35,To Do,High,4,31.1,,2026-10-20,2026-11-04,,2026-10-20 16:00:00
+211,9,Instrument integration (React),Activity store work candidate statement head piece popular old.,10,49,In Progress,Medium,1,3.3,,2026-10-16,2026-10-21,,2026-10-16 18:00:00
+212,9,Migrate data model (React),True avoid young cup position speak begin suggest speak business walk.,10,50,To Do,Medium,2,8.2,,2026-09-24,2026-09-25,,2026-09-24 09:00:00
+213,3,Instrument workflow (TypeScript),Collection off start house ahead raise common.,9,49,In Progress,High,3,10.8,,2026-10-13,2026-10-24,,2026-10-13 15:00:00
+214,5,Document dashboard (Pandas),Traditional every land chance pass pay positive material third look.,22,30,Done,Low,3,21.5,15.1,2025-05-31,2025-06-09,2025-06-09,2025-05-31 13:00:00
+215,2,Design data model (Accessibility),Evidence case current this moment piece soon some.,12,45,To Do,Medium,4,23.1,,2026-10-14,2026-10-27,,2026-10-14 11:00:00
+216,3,Harden data model (Leadership),Site grow name machine tree maybe home conference five despite time sing.,33,,Done,High,1,7.4,6.3,2026-01-25,2026-02-01,2026-02-08,2026-01-25 16:00:00
+217,5,Instrument UI component (Java),Speak line group once do city easy drop.,3,25,Done,High,3,16.1,16.9,2025-06-01,2025-06-05,2025-06-10,2025-06-01 18:00:00
+218,2,Instrument module (Agile/Scrum),Staff true argue you detail suffer something great stuff suddenly compare or south recently trial.,34,41,Blocked,Low,2,11.4,,2026-10-17,2026-10-25,,2026-10-17 12:00:00
+219,4,Optimise module (Python),Region goal nothing center way student special.,1,,In Progress,High,2,12.2,,2026-12-09,2026-12-11,,2026-12-09 16:00:00
+220,7,Harden integration (Go),My compare also argue own after long forward pass southern future concern sort than.,5,3,In Progress,Medium,3,19.4,,2026-11-09,2026-11-22,,2026-11-09 11:00:00
+221,6,Instrument pipeline (REST API Design),Against only true similar suffer team whether health.,6,31,In Review,Medium,3,17.8,,2026-10-15,2026-10-24,,2026-10-15 10:00:00
+222,2,Instrument service (JavaScript),Only from follow wish run join police maintain fish religious no threat party.,8,39,Backlog,Medium,2,11.0,,2026-11-11,2026-11-15,,2026-11-11 10:00:00
+223,6,Implement dashboard (Java),Development open compare fill read camera rock we we hot yes whole.,3,26,In Review,Low,2,13.6,,2026-10-01,2026-10-05,,2026-10-01 09:00:00
+224,2,Optimise scheduler (Leadership),Consider fish speak particularly policy bit many.,33,39,In Review,High,4,16.1,,2026-12-03,2026-12-07,,2026-12-03 17:00:00
+225,6,Migrate UI component (C#/.NET),Seat draw word collection those become remember police though land enter economic.,4,27,To Do,Low,4,21.3,,2026-11-04,2026-11-17,,2026-11-04 17:00:00
+226,1,Optimise service (TypeScript),Go skin result answer just information coach increase.,9,6,Done,Low,5,37.6,49.9,2025-12-20,2026-01-03,2026-01-01,2025-12-20 16:00:00
+227,4,Test data model (JavaScript),Goal heart stock small official serve difficult later son almost after end.,8,9,Done,High,4,20.4,17.9,2026-03-10,2026-03-19,2026-03-19,2026-03-10 14:00:00
+228,3,Test dashboard (JavaScript),Avoid color heart rule natural together behavior order.,8,47,Backlog,Low,1,6.5,,2026-11-23,2026-11-29,,2026-11-23 12:00:00
+229,9,Harden dashboard (UI Design),Throw relate issue president parent its approach former window important never understand music produce father benefit.,29,50,Done,Medium,5,26.0,32.5,2026-05-23,2026-06-02,2026-06-08,2026-05-23 17:00:00
+230,4,Test service (Accessibility),Occur style child guess into far product outside current agent color factor bank.,12,11,Done,High,4,29.7,22.9,2026-05-15,2026-05-26,2026-05-26,2026-05-15 10:00:00
+231,4,Document integration (HTML/CSS),Final however major produce before name continue those.,11,12,In Progress,High,1,7.8,,2026-10-19,2026-10-21,,2026-10-19 17:00:00
+232,7,Integrate dashboard (Go),Cost and keep enjoy student nor character recent benefit property space including.,5,27,Backlog,High,5,16.7,,2026-10-11,2026-10-16,,2026-10-11 11:00:00
+233,1,Document workflow (React),Dinner article hit mission whole reach view of dog federal house take alone number might number.,10,6,Done,Medium,5,30.5,35.3,2025-07-31,2025-08-10,2025-08-11,2025-07-31 18:00:00
+234,4,Harden endpoint (React),Challenge we last we cold deep cover amount bad raise dark state challenge organization floor road.,10,14,Backlog,High,2,12.2,,2026-09-24,2026-10-04,,2026-09-24 17:00:00
+235,10,Harden data model (Kubernetes),Beautiful news need task mind true actually red.,14,47,In Progress,Medium,4,25.8,,2026-09-29,2026-10-11,,2026-09-29 17:00:00
+236,3,Instrument endpoint (Figma),Mission information increase challenge onto serve vote understand none big experience movie gas improve him magazine.,30,46,Done,High,4,25.5,33.2,2026-08-31,2026-09-11,2026-09-18,2026-08-31 13:00:00
+237,4,Design scheduler (REST API Design),List common idea peace race I how these real any little environmental head full soldier financial.,6,14,To Do,High,5,31.1,,2026-10-26,2026-11-10,,2026-10-26 13:00:00
+238,4,Instrument endpoint (React),Teach range win direction feel season similar fly rock painting become kid tree imagine.,10,6,Blocked,High,3,12.3,,2026-11-27,2026-12-02,,2026-11-27 11:00:00
+239,9,Integrate service (UX Research),Service test start middle city find medical career surface these ahead cover strategy student.,28,,Backlog,Low,2,15.3,,2026-11-05,2026-11-16,,2026-11-05 15:00:00
+240,4,Implement data model (REST API Design),Almost anything growth current happy less however type race drop.,6,14,In Review,High,4,33.6,,2026-10-14,2026-10-27,,2026-10-14 14:00:00
+241,5,Instrument integration (NLP),Order concern that only glass clear thus see read expect hit clear occur who.,21,26,Done,Medium,1,6.0,7.1,2025-05-12,2025-05-20,2025-05-19,2025-05-12 17:00:00
+242,1,Optimise workflow (REST API Design),Positive question especially important after sister should across treatment positive.,6,10,Done,Low,5,40.9,38.5,2025-09-26,2025-10-09,2025-10-16,2025-09-26 14:00:00
+243,3,Design scheduler (React),Song difference part wall require remember every time surface learn design few minute perhaps once account.,10,30,To Do,Medium,5,18.9,,2026-09-29,2026-10-05,,2026-09-29 08:00:00
+244,2,Document module (Leadership),No order executive range loss from everybody foot everybody prevent weight prepare.,33,44,In Progress,High,2,17.9,,2026-11-26,2026-12-05,,2026-11-26 10:00:00
+245,1,Refactor workflow (Go),Change she tonight south sort outside produce race return pretty.,5,3,Done,Low,4,32.1,35.1,2025-09-26,2025-10-06,2025-10-09,2025-09-26 18:00:00
+246,10,Refactor integration (C#/.NET),Else industry home along remain occur couple risk develop movement size.,4,21,Backlog,High,5,32.3,,2026-10-28,2026-11-07,,2026-10-28 17:00:00
+247,3,Optimise endpoint (Leadership),Medical suddenly subject theory Congress best campaign else space several consumer quite.,33,17,Blocked,High,2,16.4,,2026-11-13,2026-11-24,,2026-11-13 13:00:00
+248,3,Harden module (Accessibility),Pressure develop development the inside thought he one less brother approach plant.,12,45,Done,Medium,3,19.9,19.7,2026-07-12,2026-07-23,2026-07-28,2026-07-12 11:00:00
+249,2,Design module (JavaScript),Want author threat matter test high fear approach take case customer important notice trade leader first.,8,39,In Progress,High,1,3.4,,2026-09-22,2026-10-01,,2026-09-22 18:00:00
+250,10,Optimise workflow (Docker),Single maintain piece computer play above event seven collection.,13,,In Progress,High,3,13.1,,2026-09-23,2026-09-27,,2026-09-23 15:00:00
+251,5,Test integration (NLP),Majority shake because pass plant idea whole himself also.,21,30,In Review,Low,3,18.9,,2026-09-21,2026-09-26,,2026-09-21 16:00:00
+252,7,Implement service (CI/CD),Room wear throughout series most adult above safe difficult theory.,15,11,To Do,Medium,3,25.4,,2026-09-25,2026-10-04,,2026-09-25 16:00:00
+253,9,Implement data model (React),Can himself open cold statement fear fact road others full thousand.,10,48,Done,Medium,3,14.2,10.0,2026-08-03,2026-08-12,2026-08-14,2026-08-03 13:00:00
+254,2,Test dashboard (Agile/Scrum),Garden top grow could way truth idea direction road.,34,41,Done,Low,4,21.5,19.0,2026-05-14,2026-05-23,2026-05-24,2026-05-14 12:00:00
+255,7,Test scheduler (CI/CD),Deep against mean but represent society heart policy side.,15,11,To Do,High,3,16.4,,2026-11-16,2026-11-25,,2026-11-16 11:00:00
+256,3,Migrate endpoint (React),Any yes product president after ready indicate herself natural listen check receive piece feeling product production.,10,48,Blocked,Low,1,8.8,,2026-10-16,2026-10-24,,2026-10-16 13:00:00
+257,4,Design endpoint (JavaScript),Performance red industry together memory pay executive size marriage participant sing.,8,9,In Progress,High,3,17.3,,2026-10-23,2026-10-25,,2026-10-23 12:00:00
+258,9,Instrument scheduler (JavaScript),Win group important civil nature travel read lose doctor actually become book off management we.,8,45,In Progress,High,1,8.8,,2026-10-30,2026-10-31,,2026-10-30 14:00:00
+259,7,Implement endpoint (Go),Avoid rich toward popular lead with enough anyone spend them system growth quality international break.,5,8,Done,High,3,11.9,10.4,2026-10-01,2026-10-10,2026-10-09,2026-10-01 09:00:00
+260,2,Test pipeline (Communication),Act catch positive forget thus western environmental.,32,39,In Review,High,3,9.3,,2026-10-30,2026-10-31,,2026-10-30 13:00:00
+261,8,Optimise pipeline (C#/.NET),Head garden box hundred lead structure ready long.,4,,Backlog,High,2,12.0,,2026-11-21,2026-12-03,,2026-11-21 16:00:00
+262,9,Implement scheduler (React),Power someone both receive around wall city indeed opportunity soon question consider here.,10,48,Done,Critical,4,17.6,12.6,2026-06-27,2026-07-06,2026-07-07,2026-06-27 15:00:00
+263,6,Design scheduler (NLP),Particularly television they road through low maintain thought key as pressure actually.,21,26,In Progress,Low,4,16.6,,2026-10-22,2026-11-02,,2026-10-22 12:00:00
+264,9,Optimise module (Prototyping),Should office north within prove full mission red believe product eat generation put his stuff.,31,50,In Progress,High,3,17.2,,2026-12-09,2026-12-11,,2026-12-09 18:00:00
+265,10,Refactor service (Docker),Throughout party activity various measure light many close seem fly former everything medical nearly her.,13,21,In Progress,Medium,2,12.3,,2026-10-28,2026-11-05,,2026-10-28 10:00:00
+266,2,Implement workflow (SQL),Bad know of because material firm wonder seat adult idea.,7,43,Backlog,Low,2,7.3,,2026-10-29,2026-11-09,,2026-10-29 11:00:00
+267,6,Document workflow (Node.js),News a before page people fight meet.,2,26,In Progress,Low,1,8.6,,2026-10-13,2026-10-21,,2026-10-13 08:00:00
+268,9,Instrument data model (Accessibility),Pressure lay future stay staff such forward should outside respond.,12,45,To Do,Low,5,16.2,,2026-11-15,2026-11-18,,2026-11-15 18:00:00
+269,3,Optimise pipeline (Leadership),Respond box service develop game stop who factor miss reduce animal clearly.,33,46,Done,Medium,2,12.7,16.7,2026-07-11,2026-07-20,2026-07-24,2026-07-11 16:00:00
+270,10,Test data model (Kubernetes),State score important effect cultural building system democratic station.,14,20,Blocked,Medium,3,25.2,,2026-10-28,2026-11-11,,2026-10-28 11:00:00
+271,4,Harden service (TypeScript),Response blue increase unit study open sign late probably what.,9,8,Blocked,Medium,3,15.5,,2026-10-06,2026-10-12,,2026-10-06 12:00:00
+272,10,Optimise pipeline (C#/.NET),White above save network item one under sit travel.,4,20,Done,High,3,9.4,10.2,2026-08-17,2026-08-26,2026-09-01,2026-08-17 10:00:00
+273,3,Design scheduler (Communication),Community spring billion price paper focus thing industry participant realize eat huge garden family source catch.,32,49,Backlog,High,2,8.8,,2026-12-09,2026-12-13,,2026-12-09 17:00:00
+274,9,Refactor endpoint (TypeScript),Record security federal reduce team Republican very plan cut person fact generation public wonder practice when.,9,39,Done,Low,5,34.3,46.1,2026-07-12,2026-07-18,2026-07-16,2026-07-12 18:00:00
+275,9,Document scheduler (JavaScript),My PM report set no old wall report purpose throw move there institution actually.,8,48,To Do,Medium,4,13.3,,2026-10-26,2026-11-05,,2026-10-26 17:00:00
+276,6,Document data model (Node.js),Agent certainly prove customer seek claim expert economy.,2,26,Backlog,High,2,11.2,,2026-11-05,2026-11-15,,2026-11-05 14:00:00
+277,8,Harden integration (Java),Real far send allow sport bill test science.,3,1,Backlog,Low,2,11.8,,2026-11-10,2026-11-20,,2026-11-10 13:00:00
+278,7,Optimise UI component (Terraform),Score night down six sometimes explain professor unit hold what.,16,34,In Progress,Medium,1,3.7,,2026-10-28,2026-11-07,,2026-10-28 15:00:00
+279,7,Harden service (Kubernetes),Whole approach season data than team kitchen difficult plant remember happy open.,14,36,Done,Medium,1,8.5,10.4,2026-06-29,2026-07-01,2026-06-30,2026-06-29 13:00:00
+280,8,Design service (Node.js),Cultural right cover large work avoid while same budget American evidence enough claim suffer accept letter.,2,9,Backlog,Low,3,17.1,,2026-11-05,2026-10-29,,2026-11-05 14:00:00
+281,6,Implement module (Data Engineering),Always up others similar personal successful feeling so nearly.,23,,To Do,Low,5,16.3,,2026-11-18,2026-11-24,,2026-11-18 14:00:00
+282,7,Test data model (Linux),Six fish detail contain attention measure indeed Mr.,17,34,Done,Low,3,24.6,26.0,2026-08-25,2026-09-01,2026-09-05,2026-08-25 09:00:00
+283,2,Optimise workflow (Agile/Scrum),Glass third professional former family wear peace little.,34,39,Backlog,High,4,25.5,,2026-10-26,2026-11-04,,2026-10-26 18:00:00
+284,3,Document data model (Prototyping),Statement wonder across protect knowledge toward party perform where radio fly trouble war history music.,31,45,Done,Medium,3,23.6,20.2,2026-01-23,2026-02-03,2026-02-05,2026-01-23 18:00:00
+285,7,Test data model (Linux),Agency might side method meet main fast prepare fly bank benefit.,17,34,In Progress,Medium,2,11.0,,2026-11-17,2026-11-23,,2026-11-17 18:00:00
+286,9,Refactor pipeline (React),Mouth phone decision picture defense rate structure day stock these scientist itself stage authority rather.,10,50,Done,High,3,21.4,28.7,2026-07-24,2026-07-29,2026-08-05,2026-07-24 13:00:00
+287,9,Refactor pipeline (React),Learn forward beautiful approach some newspaper offer.,10,49,In Progress,High,1,7.6,,2026-11-02,2026-11-13,,2026-11-02 10:00:00
+288,1,Test scheduler (React),Treat imagine later identify first hope brother accept result as.,10,8,Done,Medium,5,23.0,21.9,2025-09-21,2025-09-27,2025-09-25,2025-09-21 18:00:00
+289,4,Instrument endpoint (SQL),Animal summer group me face rate paper example unit high state air choose detail section someone.,7,12,To Do,Low,4,23.4,,2026-10-09,2026-10-16,,2026-10-09 09:00:00
+290,2,Document UI component (Leadership),Far plant fear thought whole term possible whatever action themselves center among of hour natural.,33,48,In Progress,Medium,5,29.7,,2026-11-06,2026-11-10,,2026-11-06 17:00:00
+291,6,Implement endpoint (NLP),Fight security tough gas include position mention claim.,21,28,Done,Medium,1,6.1,6.6,2026-02-27,2026-03-03,2026-03-09,2026-02-27 12:00:00
+292,5,Design UI component (Go),Pattern education boy provide note approach seem wrong nature popular.,5,27,Done,Medium,3,17.3,17.7,2025-04-27,2025-05-05,2025-05-05,2025-04-27 16:00:00
+293,2,Design module (Communication),Fact attack better rise maintain former campaign pretty.,32,39,In Review,Low,3,17.1,,2026-10-19,2026-10-28,,2026-10-19 09:00:00
+294,2,Design workflow (Leadership),Expect attorney cover magazine foreign process really charge.,33,,Done,High,3,10.5,11.4,2026-06-18,2026-06-21,2026-06-25,2026-06-18 17:00:00
+295,9,Design endpoint (React),Hair first into above east develop science job style care run there leg grow figure.,10,48,Done,Low,2,16.4,19.9,2026-07-19,2026-07-25,2026-07-27,2026-07-19 08:00:00
+296,7,Migrate integration (Go),Board population bank exactly step through cultural safe phone road throughout support place spend often.,5,21,In Progress,High,1,5.8,,2026-09-24,2026-09-28,,2026-09-24 15:00:00
+297,1,Optimise service (React),Defense already end thus music president chance hotel through operation tax card may bed hair action.,10,,Done,Medium,1,4.5,3.7,2025-12-13,2025-12-17,2025-12-15,2025-12-13 10:00:00
+298,9,Test UI component (Leadership),Summer southern pass coach method land condition we process whose.,33,50,Blocked,Medium,5,40.1,,2026-09-22,2026-09-30,,2026-09-22 16:00:00
+299,2,Migrate pipeline (Leadership),Voice American seven discussion enough doctor protect military social hold truth thing always possible.,33,17,Done,Low,5,25.8,32.9,2026-04-28,2026-05-07,2026-05-11,2026-04-28 09:00:00
+300,8,Migrate UI component (Go),Region miss stop strong enjoy name community president.,5,12,Backlog,Medium,3,18.5,,2026-11-05,2026-10-22,,2026-11-05 12:00:00

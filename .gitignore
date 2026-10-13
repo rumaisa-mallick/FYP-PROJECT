@@ -1,0 +1,17 @@
+# --- Large generated artifact -------------------------------------------------
+# observations.json is ~107 MB, which exceeds GitHub's 100 MB per-file limit.
+# Regenerate locally with:  python generate_observations.py
+data/observations.json
+
+# --- Python -------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# --- OS / editors -------------------------------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

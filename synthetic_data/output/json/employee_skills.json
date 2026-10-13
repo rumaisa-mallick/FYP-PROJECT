@@ -1,0 +1,1694 @@
+[
+  {
+    "employee_id": 1,
+    "skill_id": 11,
+    "proficiency": 2,
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": 1,
+    "skill_id": 7,
+    "proficiency": 4,
+    "years_experience": 5.2
+  },
+  {
+    "employee_id": 1,
+    "skill_id": 9,
+    "proficiency": 2,
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": 1,
+    "skill_id": 2,
+    "proficiency": 2,
+    "years_experience": 3.1
+  },
+  {
+    "employee_id": 1,
+    "skill_id": 4,
+    "proficiency": 2,
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": 1,
+    "skill_id": 6,
+    "proficiency": 3,
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": 1,
+    "skill_id": 12,
+    "proficiency": 2,
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": 1,
+    "skill_id": 3,
+    "proficiency": 4,
+    "years_experience": 6.5
+  },
+  {
+    "employee_id": 2,
+    "skill_id": 10,
+    "proficiency": 2,
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": 2,
+    "skill_id": 4,
+    "proficiency": 3,
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": 2,
+    "skill_id": 8,
+    "proficiency": 3,
+    "years_experience": 5.0
+  },
+  {
+    "employee_id": 2,
+    "skill_id": 7,
+    "proficiency": 1,
+    "years_experience": 0.7
+  },
+  {
+    "employee_id": 2,
+    "skill_id": 2,
+    "proficiency": 3,
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": 2,
+    "skill_id": 13,
+    "proficiency": 1,
+    "years_experience": 0.9
+  },
+  {
+    "employee_id": 2,
+    "skill_id": 6,
+    "proficiency": 1,
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": 3,
+    "skill_id": 7,
+    "proficiency": 4,
+    "years_experience": 6.0
+  },
+  {
+    "employee_id": 3,
+    "skill_id": 5,
+    "proficiency": 5,
+    "years_experience": 3.5
+  },
+  {
+    "employee_id": 3,
+    "skill_id": 4,
+    "proficiency": 5,
+    "years_experience": 8.5
+  },
+  {
+    "employee_id": 3,
+    "skill_id": 29,
+    "proficiency": 3,
+    "years_experience": 5.0
+  },
+  {
+    "employee_id": 4,
+    "skill_id": 3,
+    "proficiency": 1,
+    "years_experience": 0.8
+  },
+  {
+    "employee_id": 4,
+    "skill_id": 9,
+    "proficiency": 1,
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": 4,
+    "skill_id": 4,
+    "proficiency": 2,
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": 4,
+    "skill_id": 8,
+    "proficiency": 2,
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": 5,
+    "skill_id": 30,
+    "proficiency": 3,
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": 5,
+    "skill_id": 34,
+    "proficiency": 2,
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": 5,
+    "skill_id": 9,
+    "proficiency": 3,
+    "years_experience": 3.4
+  },
+  {
+    "employee_id": 5,
+    "skill_id": 12,
+    "proficiency": 3,
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": 5,
+    "skill_id": 3,
+    "proficiency": 3,
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": 5,
+    "skill_id": 5,
+    "proficiency": 1,
+    "years_experience": 0.7
+  },
+  {
+    "employee_id": 5,
+    "skill_id": 31,
+    "proficiency": 1,
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": 5,
+    "skill_id": 10,
+    "proficiency": 1,
+    "years_experience": 1.0
+  },
+  {
+    "employee_id": 6,
+    "skill_id": 4,
+    "proficiency": 2,
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": 6,
+    "skill_id": 10,
+    "proficiency": 3,
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": 6,
+    "skill_id": 11,
+    "proficiency": 3,
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": 6,
+    "skill_id": 7,
+    "proficiency": 4,
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": 6,
+    "skill_id": 9,
+    "proficiency": 3,
+    "years_experience": 4.9
+  },
+  {
+    "employee_id": 6,
+    "skill_id": 8,
+    "proficiency": 2,
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": 6,
+    "skill_id": 31,
+    "proficiency": 4,
+    "years_experience": 6.8
+  },
+  {
+    "employee_id": 7,
+    "skill_id": 2,
+    "proficiency": 4,
+    "years_experience": 6.3
+  },
+  {
+    "employee_id": 7,
+    "skill_id": 5,
+    "proficiency": 3,
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": 7,
+    "skill_id": 6,
+    "proficiency": 3,
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": 8,
+    "skill_id": 12,
+    "proficiency": 5,
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": 8,
+    "skill_id": 9,
+    "proficiency": 3,
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": 8,
+    "skill_id": 33,
+    "proficiency": 3,
+    "years_experience": 4.2
+  },
+  {
+    "employee_id": 8,
+    "skill_id": 10,
+    "proficiency": 3,
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": 8,
+    "skill_id": 1,
+    "proficiency": 5,
+    "years_experience": 4.2
+  },
+  {
+    "employee_id": 8,
+    "skill_id": 21,
+    "proficiency": 4,
+    "years_experience": 3.3
+  },
+  {
+    "employee_id": 8,
+    "skill_id": 5,
+    "proficiency": 5,
+    "years_experience": 7.7
+  },
+  {
+    "employee_id": 9,
+    "skill_id": 8,
+    "proficiency": 4,
+    "years_experience": 5.2
+  },
+  {
+    "employee_id": 9,
+    "skill_id": 26,
+    "proficiency": 5,
+    "years_experience": 3.9
+  },
+  {
+    "employee_id": 9,
+    "skill_id": 20,
+    "proficiency": 5,
+    "years_experience": 6.0
+  },
+  {
+    "employee_id": 9,
+    "skill_id": 2,
+    "proficiency": 5,
+    "years_experience": 6.1
+  },
+  {
+    "employee_id": 9,
+    "skill_id": 7,
+    "proficiency": 4,
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": 9,
+    "skill_id": 5,
+    "proficiency": 5,
+    "years_experience": 8.0
+  },
+  {
+    "employee_id": 9,
+    "skill_id": 1,
+    "proficiency": 5,
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": 10,
+    "skill_id": 10,
+    "proficiency": 1,
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": 10,
+    "skill_id": 3,
+    "proficiency": 1,
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": 10,
+    "skill_id": 2,
+    "proficiency": 3,
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": 10,
+    "skill_id": 6,
+    "proficiency": 3,
+    "years_experience": 4.7
+  },
+  {
+    "employee_id": 10,
+    "skill_id": 27,
+    "proficiency": 2,
+    "years_experience": 3.3
+  },
+  {
+    "employee_id": 11,
+    "skill_id": 3,
+    "proficiency": 4,
+    "years_experience": 5.8
+  },
+  {
+    "employee_id": 11,
+    "skill_id": 28,
+    "proficiency": 4,
+    "years_experience": 5.9
+  },
+  {
+    "employee_id": 11,
+    "skill_id": 22,
+    "proficiency": 5,
+    "years_experience": 7.5
+  },
+  {
+    "employee_id": 11,
+    "skill_id": 32,
+    "proficiency": 4,
+    "years_experience": 3.1
+  },
+  {
+    "employee_id": 11,
+    "skill_id": 15,
+    "proficiency": 5,
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": 11,
+    "skill_id": 23,
+    "proficiency": 3,
+    "years_experience": 4.6
+  },
+  {
+    "employee_id": 11,
+    "skill_id": 1,
+    "proficiency": 3,
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": 11,
+    "skill_id": 12,
+    "proficiency": 4,
+    "years_experience": 3.9
+  },
+  {
+    "employee_id": 12,
+    "skill_id": 4,
+    "proficiency": 4,
+    "years_experience": 6.7
+  },
+  {
+    "employee_id": 12,
+    "skill_id": 11,
+    "proficiency": 5,
+    "years_experience": 4.9
+  },
+  {
+    "employee_id": 12,
+    "skill_id": 7,
+    "proficiency": 5,
+    "years_experience": 5.2
+  },
+  {
+    "employee_id": 12,
+    "skill_id": 5,
+    "proficiency": 5,
+    "years_experience": 4.8
+  },
+  {
+    "employee_id": 13,
+    "skill_id": 2,
+    "proficiency": 4,
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": 13,
+    "skill_id": 32,
+    "proficiency": 5,
+    "years_experience": 5.4
+  },
+  {
+    "employee_id": 13,
+    "skill_id": 4,
+    "proficiency": 5,
+    "years_experience": 7.3
+  },
+  {
+    "employee_id": 14,
+    "skill_id": 10,
+    "proficiency": 2,
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": 14,
+    "skill_id": 8,
+    "proficiency": 4,
+    "years_experience": 5.4
+  },
+  {
+    "employee_id": 14,
+    "skill_id": 6,
+    "proficiency": 4,
+    "years_experience": 5.6
+  },
+  {
+    "employee_id": 14,
+    "skill_id": 11,
+    "proficiency": 2,
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": 14,
+    "skill_id": 3,
+    "proficiency": 2,
+    "years_experience": 3.3
+  },
+  {
+    "employee_id": 14,
+    "skill_id": 16,
+    "proficiency": 3,
+    "years_experience": 3.9
+  },
+  {
+    "employee_id": 15,
+    "skill_id": 20,
+    "proficiency": 2,
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": 15,
+    "skill_id": 12,
+    "proficiency": 2,
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": 15,
+    "skill_id": 5,
+    "proficiency": 1,
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": 15,
+    "skill_id": 6,
+    "proficiency": 2,
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": 15,
+    "skill_id": 8,
+    "proficiency": 1,
+    "years_experience": 0.9
+  },
+  {
+    "employee_id": 15,
+    "skill_id": 7,
+    "proficiency": 1,
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": 15,
+    "skill_id": 4,
+    "proficiency": 3,
+    "years_experience": 3.8
+  },
+  {
+    "employee_id": 15,
+    "skill_id": 2,
+    "proficiency": 2,
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": 16,
+    "skill_id": 17,
+    "proficiency": 2,
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": 16,
+    "skill_id": 13,
+    "proficiency": 3,
+    "years_experience": 3.8
+  },
+  {
+    "employee_id": 16,
+    "skill_id": 19,
+    "proficiency": 1,
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": 16,
+    "skill_id": 31,
+    "proficiency": 1,
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": 16,
+    "skill_id": 16,
+    "proficiency": 1,
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": 16,
+    "skill_id": 15,
+    "proficiency": 1,
+    "years_experience": 0.6
+  },
+  {
+    "employee_id": 17,
+    "skill_id": 33,
+    "proficiency": 4,
+    "years_experience": 4.9
+  },
+  {
+    "employee_id": 17,
+    "skill_id": 15,
+    "proficiency": 4,
+    "years_experience": 5.5
+  },
+  {
+    "employee_id": 17,
+    "skill_id": 18,
+    "proficiency": 3,
+    "years_experience": 3.1
+  },
+  {
+    "employee_id": 17,
+    "skill_id": 10,
+    "proficiency": 2,
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": 18,
+    "skill_id": 24,
+    "proficiency": 2,
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": 18,
+    "skill_id": 20,
+    "proficiency": 3,
+    "years_experience": 3.5
+  },
+  {
+    "employee_id": 18,
+    "skill_id": 22,
+    "proficiency": 1,
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": 19,
+    "skill_id": 13,
+    "proficiency": 4,
+    "years_experience": 5.0
+  },
+  {
+    "employee_id": 19,
+    "skill_id": 19,
+    "proficiency": 3,
+    "years_experience": 3.8
+  },
+  {
+    "employee_id": 19,
+    "skill_id": 16,
+    "proficiency": 4,
+    "years_experience": 6.3
+  },
+  {
+    "employee_id": 20,
+    "skill_id": 19,
+    "proficiency": 3,
+    "years_experience": 4.6
+  },
+  {
+    "employee_id": 20,
+    "skill_id": 14,
+    "proficiency": 4,
+    "years_experience": 5.8
+  },
+  {
+    "employee_id": 20,
+    "skill_id": 26,
+    "proficiency": 5,
+    "years_experience": 5.7
+  },
+  {
+    "employee_id": 20,
+    "skill_id": 17,
+    "proficiency": 3,
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": 20,
+    "skill_id": 8,
+    "proficiency": 3,
+    "years_experience": 4.2
+  },
+  {
+    "employee_id": 20,
+    "skill_id": 4,
+    "proficiency": 3,
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": 21,
+    "skill_id": 24,
+    "proficiency": 4,
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": 21,
+    "skill_id": 2,
+    "proficiency": 5,
+    "years_experience": 4.8
+  },
+  {
+    "employee_id": 21,
+    "skill_id": 4,
+    "proficiency": 5,
+    "years_experience": 5.3
+  },
+  {
+    "employee_id": 21,
+    "skill_id": 13,
+    "proficiency": 4,
+    "years_experience": 6.1
+  },
+  {
+    "employee_id": 21,
+    "skill_id": 5,
+    "proficiency": 5,
+    "years_experience": 8.0
+  },
+  {
+    "employee_id": 22,
+    "skill_id": 29,
+    "proficiency": 4,
+    "years_experience": 6.2
+  },
+  {
+    "employee_id": 22,
+    "skill_id": 1,
+    "proficiency": 4,
+    "years_experience": 4.8
+  },
+  {
+    "employee_id": 22,
+    "skill_id": 23,
+    "proficiency": 5,
+    "years_experience": 6.0
+  },
+  {
+    "employee_id": 22,
+    "skill_id": 15,
+    "proficiency": 5,
+    "years_experience": 7.9
+  },
+  {
+    "employee_id": 22,
+    "skill_id": 13,
+    "proficiency": 4,
+    "years_experience": 3.4
+  },
+  {
+    "employee_id": 22,
+    "skill_id": 30,
+    "proficiency": 4,
+    "years_experience": 4.5
+  },
+  {
+    "employee_id": 22,
+    "skill_id": 5,
+    "proficiency": 4,
+    "years_experience": 3.9
+  },
+  {
+    "employee_id": 23,
+    "skill_id": 19,
+    "proficiency": 3,
+    "years_experience": 1.9
+  },
+  {
+    "employee_id": 23,
+    "skill_id": 17,
+    "proficiency": 3,
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": 23,
+    "skill_id": 21,
+    "proficiency": 2,
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": 23,
+    "skill_id": 28,
+    "proficiency": 2,
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": 23,
+    "skill_id": 33,
+    "proficiency": 1,
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": 23,
+    "skill_id": 13,
+    "proficiency": 2,
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": 23,
+    "skill_id": 25,
+    "proficiency": 2,
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": 23,
+    "skill_id": 14,
+    "proficiency": 2,
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": 24,
+    "skill_id": 7,
+    "proficiency": 3,
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": 24,
+    "skill_id": 22,
+    "proficiency": 2,
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": 24,
+    "skill_id": 1,
+    "proficiency": 4,
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": 25,
+    "skill_id": 30,
+    "proficiency": 3,
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": 25,
+    "skill_id": 3,
+    "proficiency": 4,
+    "years_experience": 5.3
+  },
+  {
+    "employee_id": 25,
+    "skill_id": 1,
+    "proficiency": 5,
+    "years_experience": 8.2
+  },
+  {
+    "employee_id": 26,
+    "skill_id": 21,
+    "proficiency": 2,
+    "years_experience": 3.3
+  },
+  {
+    "employee_id": 26,
+    "skill_id": 22,
+    "proficiency": 2,
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": 26,
+    "skill_id": 3,
+    "proficiency": 3,
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": 26,
+    "skill_id": 15,
+    "proficiency": 3,
+    "years_experience": 3.1
+  },
+  {
+    "employee_id": 26,
+    "skill_id": 20,
+    "proficiency": 4,
+    "years_experience": 3.3
+  },
+  {
+    "employee_id": 26,
+    "skill_id": 2,
+    "proficiency": 4,
+    "years_experience": 5.4
+  },
+  {
+    "employee_id": 27,
+    "skill_id": 4,
+    "proficiency": 4,
+    "years_experience": 4.3
+  },
+  {
+    "employee_id": 27,
+    "skill_id": 21,
+    "proficiency": 3,
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": 27,
+    "skill_id": 5,
+    "proficiency": 4,
+    "years_experience": 3.9
+  },
+  {
+    "employee_id": 27,
+    "skill_id": 22,
+    "proficiency": 3,
+    "years_experience": 4.5
+  },
+  {
+    "employee_id": 27,
+    "skill_id": 23,
+    "proficiency": 2,
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": 27,
+    "skill_id": 20,
+    "proficiency": 3,
+    "years_experience": 3.9
+  },
+  {
+    "employee_id": 27,
+    "skill_id": 7,
+    "proficiency": 3,
+    "years_experience": 4.1
+  },
+  {
+    "employee_id": 27,
+    "skill_id": 1,
+    "proficiency": 3,
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": 28,
+    "skill_id": 31,
+    "proficiency": 3,
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": 28,
+    "skill_id": 4,
+    "proficiency": 2,
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": 28,
+    "skill_id": 23,
+    "proficiency": 2,
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": 28,
+    "skill_id": 12,
+    "proficiency": 3,
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": 28,
+    "skill_id": 8,
+    "proficiency": 3,
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": 28,
+    "skill_id": 7,
+    "proficiency": 4,
+    "years_experience": 4.1
+  },
+  {
+    "employee_id": 28,
+    "skill_id": 21,
+    "proficiency": 2,
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": 29,
+    "skill_id": 3,
+    "proficiency": 4,
+    "years_experience": 6.3
+  },
+  {
+    "employee_id": 29,
+    "skill_id": 4,
+    "proficiency": 4,
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": 29,
+    "skill_id": 23,
+    "proficiency": 2,
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": 29,
+    "skill_id": 7,
+    "proficiency": 4,
+    "years_experience": 4.2
+  },
+  {
+    "employee_id": 29,
+    "skill_id": 27,
+    "proficiency": 4,
+    "years_experience": 5.7
+  },
+  {
+    "employee_id": 30,
+    "skill_id": 8,
+    "proficiency": 3,
+    "years_experience": 3.4
+  },
+  {
+    "employee_id": 30,
+    "skill_id": 21,
+    "proficiency": 4,
+    "years_experience": 3.9
+  },
+  {
+    "employee_id": 30,
+    "skill_id": 7,
+    "proficiency": 4,
+    "years_experience": 4.8
+  },
+  {
+    "employee_id": 30,
+    "skill_id": 1,
+    "proficiency": 3,
+    "years_experience": 4.1
+  },
+  {
+    "employee_id": 30,
+    "skill_id": 5,
+    "proficiency": 3,
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": 30,
+    "skill_id": 10,
+    "proficiency": 2,
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": 30,
+    "skill_id": 4,
+    "proficiency": 2,
+    "years_experience": 1.9
+  },
+  {
+    "employee_id": 30,
+    "skill_id": 22,
+    "proficiency": 4,
+    "years_experience": 4.8
+  },
+  {
+    "employee_id": 31,
+    "skill_id": 3,
+    "proficiency": 1,
+    "years_experience": 0.9
+  },
+  {
+    "employee_id": 31,
+    "skill_id": 4,
+    "proficiency": 2,
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": 31,
+    "skill_id": 15,
+    "proficiency": 1,
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": 31,
+    "skill_id": 22,
+    "proficiency": 1,
+    "years_experience": 0.9
+  },
+  {
+    "employee_id": 31,
+    "skill_id": 33,
+    "proficiency": 1,
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": 31,
+    "skill_id": 14,
+    "proficiency": 3,
+    "years_experience": 4.9
+  },
+  {
+    "employee_id": 31,
+    "skill_id": 6,
+    "proficiency": 3,
+    "years_experience": 4.7
+  },
+  {
+    "employee_id": 31,
+    "skill_id": 2,
+    "proficiency": 2,
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": 32,
+    "skill_id": 17,
+    "proficiency": 2,
+    "years_experience": 3.3
+  },
+  {
+    "employee_id": 32,
+    "skill_id": 7,
+    "proficiency": 3,
+    "years_experience": 4.9
+  },
+  {
+    "employee_id": 32,
+    "skill_id": 8,
+    "proficiency": 3,
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": 33,
+    "skill_id": 13,
+    "proficiency": 4,
+    "years_experience": 3.1
+  },
+  {
+    "employee_id": 33,
+    "skill_id": 2,
+    "proficiency": 5,
+    "years_experience": 8.2
+  },
+  {
+    "employee_id": 33,
+    "skill_id": 19,
+    "proficiency": 4,
+    "years_experience": 6.8
+  },
+  {
+    "employee_id": 34,
+    "skill_id": 16,
+    "proficiency": 5,
+    "years_experience": 4.2
+  },
+  {
+    "employee_id": 34,
+    "skill_id": 13,
+    "proficiency": 5,
+    "years_experience": 5.1
+  },
+  {
+    "employee_id": 34,
+    "skill_id": 17,
+    "proficiency": 4,
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": 35,
+    "skill_id": 33,
+    "proficiency": 3,
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": 35,
+    "skill_id": 6,
+    "proficiency": 3,
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": 35,
+    "skill_id": 17,
+    "proficiency": 3,
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": 35,
+    "skill_id": 16,
+    "proficiency": 3,
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": 35,
+    "skill_id": 25,
+    "proficiency": 4,
+    "years_experience": 5.4
+  },
+  {
+    "employee_id": 35,
+    "skill_id": 29,
+    "proficiency": 4,
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": 35,
+    "skill_id": 3,
+    "proficiency": 3,
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": 36,
+    "skill_id": 22,
+    "proficiency": 4,
+    "years_experience": 5.0
+  },
+  {
+    "employee_id": 36,
+    "skill_id": 14,
+    "proficiency": 2,
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": 36,
+    "skill_id": 23,
+    "proficiency": 4,
+    "years_experience": 3.4
+  },
+  {
+    "employee_id": 36,
+    "skill_id": 27,
+    "proficiency": 2,
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": 36,
+    "skill_id": 24,
+    "proficiency": 2,
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": 37,
+    "skill_id": 25,
+    "proficiency": 3,
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": 37,
+    "skill_id": 16,
+    "proficiency": 4,
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": 37,
+    "skill_id": 26,
+    "proficiency": 3,
+    "years_experience": 4.9
+  },
+  {
+    "employee_id": 37,
+    "skill_id": 27,
+    "proficiency": 4,
+    "years_experience": 4.8
+  },
+  {
+    "employee_id": 38,
+    "skill_id": 2,
+    "proficiency": 4,
+    "years_experience": 6.1
+  },
+  {
+    "employee_id": 38,
+    "skill_id": 1,
+    "proficiency": 4,
+    "years_experience": 5.0
+  },
+  {
+    "employee_id": 38,
+    "skill_id": 14,
+    "proficiency": 2,
+    "years_experience": 3.4
+  },
+  {
+    "employee_id": 38,
+    "skill_id": 12,
+    "proficiency": 4,
+    "years_experience": 6.0
+  },
+  {
+    "employee_id": 38,
+    "skill_id": 6,
+    "proficiency": 4,
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": 38,
+    "skill_id": 4,
+    "proficiency": 2,
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": 39,
+    "skill_id": 11,
+    "proficiency": 5,
+    "years_experience": 6.7
+  },
+  {
+    "employee_id": 39,
+    "skill_id": 9,
+    "proficiency": 4,
+    "years_experience": 3.9
+  },
+  {
+    "employee_id": 39,
+    "skill_id": 34,
+    "proficiency": 5,
+    "years_experience": 5.7
+  },
+  {
+    "employee_id": 39,
+    "skill_id": 12,
+    "proficiency": 5,
+    "years_experience": 8.2
+  },
+  {
+    "employee_id": 39,
+    "skill_id": 32,
+    "proficiency": 5,
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": 39,
+    "skill_id": 33,
+    "proficiency": 4,
+    "years_experience": 3.8
+  },
+  {
+    "employee_id": 39,
+    "skill_id": 10,
+    "proficiency": 5,
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": 39,
+    "skill_id": 8,
+    "proficiency": 5,
+    "years_experience": 7.8
+  },
+  {
+    "employee_id": 40,
+    "skill_id": 22,
+    "proficiency": 2,
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": 40,
+    "skill_id": 13,
+    "proficiency": 4,
+    "years_experience": 5.7
+  },
+  {
+    "employee_id": 40,
+    "skill_id": 11,
+    "proficiency": 4,
+    "years_experience": 4.3
+  },
+  {
+    "employee_id": 41,
+    "skill_id": 8,
+    "proficiency": 4,
+    "years_experience": 6.3
+  },
+  {
+    "employee_id": 41,
+    "skill_id": 17,
+    "proficiency": 4,
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": 41,
+    "skill_id": 34,
+    "proficiency": 5,
+    "years_experience": 6.3
+  },
+  {
+    "employee_id": 42,
+    "skill_id": 27,
+    "proficiency": 2,
+    "years_experience": 3.4
+  },
+  {
+    "employee_id": 42,
+    "skill_id": 10,
+    "proficiency": 2,
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": 42,
+    "skill_id": 1,
+    "proficiency": 2,
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": 42,
+    "skill_id": 11,
+    "proficiency": 2,
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": 43,
+    "skill_id": 9,
+    "proficiency": 3,
+    "years_experience": 3.5
+  },
+  {
+    "employee_id": 43,
+    "skill_id": 28,
+    "proficiency": 1,
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": 43,
+    "skill_id": 11,
+    "proficiency": 2,
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": 43,
+    "skill_id": 14,
+    "proficiency": 2,
+    "years_experience": 1.9
+  },
+  {
+    "employee_id": 43,
+    "skill_id": 13,
+    "proficiency": 3,
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": 43,
+    "skill_id": 12,
+    "proficiency": 1,
+    "years_experience": 0.9
+  },
+  {
+    "employee_id": 43,
+    "skill_id": 7,
+    "proficiency": 2,
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": 43,
+    "skill_id": 8,
+    "proficiency": 3,
+    "years_experience": 5.1
+  },
+  {
+    "employee_id": 44,
+    "skill_id": 33,
+    "proficiency": 4,
+    "years_experience": 6.2
+  },
+  {
+    "employee_id": 44,
+    "skill_id": 11,
+    "proficiency": 5,
+    "years_experience": 4.3
+  },
+  {
+    "employee_id": 44,
+    "skill_id": 12,
+    "proficiency": 4,
+    "years_experience": 3.4
+  },
+  {
+    "employee_id": 44,
+    "skill_id": 9,
+    "proficiency": 4,
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": 44,
+    "skill_id": 30,
+    "proficiency": 5,
+    "years_experience": 5.6
+  },
+  {
+    "employee_id": 44,
+    "skill_id": 10,
+    "proficiency": 4,
+    "years_experience": 4.1
+  },
+  {
+    "employee_id": 45,
+    "skill_id": 31,
+    "proficiency": 4,
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": 45,
+    "skill_id": 28,
+    "proficiency": 4,
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": 45,
+    "skill_id": 8,
+    "proficiency": 3,
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": 45,
+    "skill_id": 34,
+    "proficiency": 5,
+    "years_experience": 8.3
+  },
+  {
+    "employee_id": 45,
+    "skill_id": 9,
+    "proficiency": 3,
+    "years_experience": 3.3
+  },
+  {
+    "employee_id": 45,
+    "skill_id": 33,
+    "proficiency": 4,
+    "years_experience": 3.9
+  },
+  {
+    "employee_id": 45,
+    "skill_id": 12,
+    "proficiency": 5,
+    "years_experience": 5.2
+  },
+  {
+    "employee_id": 45,
+    "skill_id": 6,
+    "proficiency": 3,
+    "years_experience": 4.6
+  },
+  {
+    "employee_id": 46,
+    "skill_id": 32,
+    "proficiency": 4,
+    "years_experience": 5.4
+  },
+  {
+    "employee_id": 46,
+    "skill_id": 12,
+    "proficiency": 3,
+    "years_experience": 5.1
+  },
+  {
+    "employee_id": 46,
+    "skill_id": 11,
+    "proficiency": 4,
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": 46,
+    "skill_id": 30,
+    "proficiency": 2,
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": 46,
+    "skill_id": 31,
+    "proficiency": 4,
+    "years_experience": 6.2
+  },
+  {
+    "employee_id": 46,
+    "skill_id": 33,
+    "proficiency": 3,
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": 46,
+    "skill_id": 3,
+    "proficiency": 3,
+    "years_experience": 4.8
+  },
+  {
+    "employee_id": 46,
+    "skill_id": 5,
+    "proficiency": 2,
+    "years_experience": 1.9
+  },
+  {
+    "employee_id": 47,
+    "skill_id": 11,
+    "proficiency": 5,
+    "years_experience": 5.3
+  },
+  {
+    "employee_id": 47,
+    "skill_id": 14,
+    "proficiency": 5,
+    "years_experience": 7.4
+  },
+  {
+    "employee_id": 47,
+    "skill_id": 8,
+    "proficiency": 3,
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": 48,
+    "skill_id": 32,
+    "proficiency": 3,
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": 48,
+    "skill_id": 28,
+    "proficiency": 3,
+    "years_experience": 4.8
+  },
+  {
+    "employee_id": 48,
+    "skill_id": 10,
+    "proficiency": 4,
+    "years_experience": 4.8
+  },
+  {
+    "employee_id": 48,
+    "skill_id": 33,
+    "proficiency": 2,
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": 48,
+    "skill_id": 8,
+    "proficiency": 3,
+    "years_experience": 5.1
+  },
+  {
+    "employee_id": 48,
+    "skill_id": 17,
+    "proficiency": 3,
+    "years_experience": 3.9
+  },
+  {
+    "employee_id": 48,
+    "skill_id": 11,
+    "proficiency": 3,
+    "years_experience": 4.1
+  },
+  {
+    "employee_id": 49,
+    "skill_id": 32,
+    "proficiency": 4,
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": 49,
+    "skill_id": 9,
+    "proficiency": 4,
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": 49,
+    "skill_id": 13,
+    "proficiency": 4,
+    "years_experience": 4.1
+  },
+  {
+    "employee_id": 49,
+    "skill_id": 22,
+    "proficiency": 2,
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": 49,
+    "skill_id": 10,
+    "proficiency": 4,
+    "years_experience": 5.8
+  },
+  {
+    "employee_id": 49,
+    "skill_id": 28,
+    "proficiency": 2,
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": 50,
+    "skill_id": 22,
+    "proficiency": 5,
+    "years_experience": 7.2
+  },
+  {
+    "employee_id": 50,
+    "skill_id": 33,
+    "proficiency": 5,
+    "years_experience": 6.7
+  },
+  {
+    "employee_id": 50,
+    "skill_id": 10,
+    "proficiency": 3,
+    "years_experience": 3.9
+  },
+  {
+    "employee_id": 50,
+    "skill_id": 31,
+    "proficiency": 5,
+    "years_experience": 6.6
+  },
+  {
+    "employee_id": 50,
+    "skill_id": 28,
+    "proficiency": 4,
+    "years_experience": 5.9
+  },
+  {
+    "employee_id": 50,
+    "skill_id": 11,
+    "proficiency": 3,
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": 50,
+    "skill_id": 29,
+    "proficiency": 5,
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": 50,
+    "skill_id": 24,
+    "proficiency": 4,
+    "years_experience": 3.8
+  }
+]

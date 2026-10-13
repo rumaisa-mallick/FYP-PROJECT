@@ -1,0 +1,172 @@
+[
+  {
+    "skill_id": 1,
+    "name": "Python",
+    "category": "Backend"
+  },
+  {
+    "skill_id": 2,
+    "name": "Node.js",
+    "category": "Backend"
+  },
+  {
+    "skill_id": 3,
+    "name": "Java",
+    "category": "Backend"
+  },
+  {
+    "skill_id": 4,
+    "name": "C#/.NET",
+    "category": "Backend"
+  },
+  {
+    "skill_id": 5,
+    "name": "Go",
+    "category": "Backend"
+  },
+  {
+    "skill_id": 6,
+    "name": "REST API Design",
+    "category": "Backend"
+  },
+  {
+    "skill_id": 7,
+    "name": "SQL",
+    "category": "Data"
+  },
+  {
+    "skill_id": 8,
+    "name": "JavaScript",
+    "category": "Frontend"
+  },
+  {
+    "skill_id": 9,
+    "name": "TypeScript",
+    "category": "Frontend"
+  },
+  {
+    "skill_id": 10,
+    "name": "React",
+    "category": "Frontend"
+  },
+  {
+    "skill_id": 11,
+    "name": "HTML/CSS",
+    "category": "Frontend"
+  },
+  {
+    "skill_id": 12,
+    "name": "Accessibility",
+    "category": "Frontend"
+  },
+  {
+    "skill_id": 13,
+    "name": "Docker",
+    "category": "DevOps"
+  },
+  {
+    "skill_id": 14,
+    "name": "Kubernetes",
+    "category": "DevOps"
+  },
+  {
+    "skill_id": 15,
+    "name": "CI/CD",
+    "category": "DevOps"
+  },
+  {
+    "skill_id": 16,
+    "name": "Terraform",
+    "category": "DevOps"
+  },
+  {
+    "skill_id": 17,
+    "name": "Linux",
+    "category": "DevOps"
+  },
+  {
+    "skill_id": 18,
+    "name": "AWS",
+    "category": "Cloud"
+  },
+  {
+    "skill_id": 19,
+    "name": "Azure",
+    "category": "Cloud"
+  },
+  {
+    "skill_id": 20,
+    "name": "Machine Learning",
+    "category": "Data/ML"
+  },
+  {
+    "skill_id": 21,
+    "name": "NLP",
+    "category": "Data/ML"
+  },
+  {
+    "skill_id": 22,
+    "name": "Pandas",
+    "category": "Data/ML"
+  },
+  {
+    "skill_id": 23,
+    "name": "Data Engineering",
+    "category": "Data/ML"
+  },
+  {
+    "skill_id": 24,
+    "name": "Automated Testing",
+    "category": "QA"
+  },
+  {
+    "skill_id": 25,
+    "name": "Selenium",
+    "category": "QA"
+  },
+  {
+    "skill_id": 26,
+    "name": "Performance Testing",
+    "category": "QA"
+  },
+  {
+    "skill_id": 27,
+    "name": "Test Planning",
+    "category": "QA"
+  },
+  {
+    "skill_id": 28,
+    "name": "UX Research",
+    "category": "Design"
+  },
+  {
+    "skill_id": 29,
+    "name": "UI Design",
+    "category": "Design"
+  },
+  {
+    "skill_id": 30,
+    "name": "Figma",
+    "category": "Design"
+  },
+  {
+    "skill_id": 31,
+    "name": "Prototyping",
+    "category": "Design"
+  },
+  {
+    "skill_id": 32,
+    "name": "Communication",
+    "category": "Soft"
+  },
+  {
+    "skill_id": 33,
+    "name": "Leadership",
+    "category": "Soft"
+  },
+  {
+    "skill_id": 34,
+    "name": "Agile/Scrum",
+    "category": "Soft"
+  }
+]

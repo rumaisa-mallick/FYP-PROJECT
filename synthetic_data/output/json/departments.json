@@ -1,0 +1,38 @@
+[
+  {
+    "department_id": 1,
+    "name": "Engineering",
+    "cost_center": "CC-1001",
+    "location": "London"
+  },
+  {
+    "department_id": 2,
+    "name": "Platform & DevOps",
+    "cost_center": "CC-1002",
+    "location": "Manchester"
+  },
+  {
+    "department_id": 3,
+    "name": "Data & AI",
+    "cost_center": "CC-1003",
+    "location": "London"
+  },
+  {
+    "department_id": 4,
+    "name": "Quality Assurance",
+    "cost_center": "CC-1004",
+    "location": "Leeds"
+  },
+  {
+    "department_id": 5,
+    "name": "Product Management",
+    "cost_center": "CC-1005",
+    "location": "London"
+  },
+  {
+    "department_id": 6,
+    "name": "Design",
+    "cost_center": "CC-1006",
+    "location": "Bristol"
+  }
+]

@@ -1,0 +1,35 @@
+skill_id,name,category
+1,Python,Backend
+2,Node.js,Backend
+3,Java,Backend
+4,C#/.NET,Backend
+5,Go,Backend
+6,REST API Design,Backend
+7,SQL,Data
+8,JavaScript,Frontend
+9,TypeScript,Frontend
+10,React,Frontend
+11,HTML/CSS,Frontend
+12,Accessibility,Frontend
+13,Docker,DevOps
+14,Kubernetes,DevOps
+15,CI/CD,DevOps
+16,Terraform,DevOps
+17,Linux,DevOps
+18,AWS,Cloud
+19,Azure,Cloud
+20,Machine Learning,Data/ML
+21,NLP,Data/ML
+22,Pandas,Data/ML
+23,Data Engineering,Data/ML
+24,Automated Testing,QA
+25,Selenium,QA
+26,Performance Testing,QA
+27,Test Planning,QA
+28,UX Research,Design
+29,UI Design,Design
+30,Figma,Design
+31,Prototyping,Design
+32,Communication,Soft
+33,Leadership,Soft
+34,Agile/Scrum,Soft

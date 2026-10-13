@@ -1,0 +1,1028 @@
+[
+  {
+    "predecessor_task_id": 116,
+    "successor_task_id": 229,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 116,
+    "successor_task_id": 147,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 147,
+    "successor_task_id": 262,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 262,
+    "successor_task_id": 205,
+    "dependency_type": "Finish-to-Finish",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 205,
+    "successor_task_id": 274,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 295,
+    "successor_task_id": 286,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 274,
+    "successor_task_id": 253,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 295,
+    "successor_task_id": 37,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 286,
+    "successor_task_id": 43,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 253,
+    "successor_task_id": 8,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 43,
+    "successor_task_id": 298,
+    "dependency_type": "Start-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 173,
+    "successor_task_id": 174,
+    "dependency_type": "Start-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 70,
+    "successor_task_id": 42,
+    "dependency_type": "Start-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 42,
+    "successor_task_id": 185,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 117,
+    "successor_task_id": 211,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 117,
+    "successor_task_id": 165,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 165,
+    "successor_task_id": 166,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 166,
+    "successor_task_id": 275,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 275,
+    "successor_task_id": 36,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 258,
+    "successor_task_id": 239,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 36,
+    "successor_task_id": 58,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 58,
+    "successor_task_id": 47,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 268,
+    "successor_task_id": 203,
+    "dependency_type": "Start-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 203,
+    "successor_task_id": 167,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 167,
+    "successor_task_id": 171,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 171,
+    "successor_task_id": 264,
+    "dependency_type": "Start-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 284,
+    "successor_task_id": 248,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 248,
+    "successor_task_id": 49,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 248,
+    "successor_task_id": 135,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 135,
+    "successor_task_id": 243,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 135,
+    "successor_task_id": 106,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 49,
+    "successor_task_id": 213,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 106,
+    "successor_task_id": 256,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 213,
+    "successor_task_id": 160,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 256,
+    "successor_task_id": 97,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 125,
+    "successor_task_id": 228,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 228,
+    "successor_task_id": 2,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 125,
+    "successor_task_id": 26,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 3,
+    "successor_task_id": 61,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 64,
+    "successor_task_id": 145,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 64,
+    "successor_task_id": 179,
+    "dependency_type": "Start-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 55,
+    "successor_task_id": 54,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 250,
+    "successor_task_id": 157,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 157,
+    "successor_task_id": 113,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 157,
+    "successor_task_id": 246,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 123,
+    "successor_task_id": 270,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 270,
+    "successor_task_id": 51,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 51,
+    "successor_task_id": 141,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 141,
+    "successor_task_id": 24,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 141,
+    "successor_task_id": 156,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 291,
+    "successor_task_id": 150,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 150,
+    "successor_task_id": 9,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 9,
+    "successor_task_id": 48,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 48,
+    "successor_task_id": 187,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 194,
+    "successor_task_id": 120,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 194,
+    "successor_task_id": 86,
+    "dependency_type": "Start-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 202,
+    "successor_task_id": 79,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 202,
+    "successor_task_id": 267,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 79,
+    "successor_task_id": 148,
+    "dependency_type": "Start-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 159,
+    "successor_task_id": 210,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 221,
+    "successor_task_id": 122,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 122,
+    "successor_task_id": 34,
+    "dependency_type": "Start-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 34,
+    "successor_task_id": 16,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 16,
+    "successor_task_id": 142,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 16,
+    "successor_task_id": 168,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 208,
+    "successor_task_id": 225,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 77,
+    "successor_task_id": 276,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 276,
+    "successor_task_id": 281,
+    "dependency_type": "Start-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 276,
+    "successor_task_id": 169,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 169,
+    "successor_task_id": 94,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 99,
+    "successor_task_id": 279,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 279,
+    "successor_task_id": 10,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 99,
+    "successor_task_id": 191,
+    "dependency_type": "Finish-to-Finish",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 10,
+    "successor_task_id": 282,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 282,
+    "successor_task_id": 296,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 191,
+    "successor_task_id": 252,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 5,
+    "successor_task_id": 180,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 252,
+    "successor_task_id": 232,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 232,
+    "successor_task_id": 181,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 180,
+    "successor_task_id": 68,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 181,
+    "successor_task_id": 52,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 68,
+    "successor_task_id": 11,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 52,
+    "successor_task_id": 220,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 6,
+    "successor_task_id": 30,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 220,
+    "successor_task_id": 255,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 75,
+    "successor_task_id": 292,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 75,
+    "successor_task_id": 7,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 75,
+    "successor_task_id": 206,
+    "dependency_type": "Finish-to-Finish",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 65,
+    "successor_task_id": 134,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 78,
+    "successor_task_id": 241,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 78,
+    "successor_task_id": 109,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 241,
+    "successor_task_id": 128,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 109,
+    "successor_task_id": 27,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 128,
+    "successor_task_id": 214,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 214,
+    "successor_task_id": 217,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 71,
+    "successor_task_id": 96,
+    "dependency_type": "Finish-to-Finish",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 108,
+    "successor_task_id": 76,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 76,
+    "successor_task_id": 82,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 82,
+    "successor_task_id": 102,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 183,
+    "successor_task_id": 251,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 132,
+    "successor_task_id": 233,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 132,
+    "successor_task_id": 182,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 132,
+    "successor_task_id": 198,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 245,
+    "successor_task_id": 131,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 12,
+    "successor_task_id": 153,
+    "dependency_type": "Start-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 131,
+    "successor_task_id": 297,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 91,
+    "successor_task_id": 226,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 91,
+    "successor_task_id": 22,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 22,
+    "successor_task_id": 101,
+    "dependency_type": "Finish-to-Finish",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 149,
+    "successor_task_id": 126,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 72,
+    "successor_task_id": 137,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 126,
+    "successor_task_id": 195,
+    "dependency_type": "Start-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 151,
+    "successor_task_id": 193,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 299,
+    "successor_task_id": 254,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 193,
+    "successor_task_id": 14,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 254,
+    "successor_task_id": 294,
+    "dependency_type": "Start-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 294,
+    "successor_task_id": 63,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 63,
+    "successor_task_id": 95,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 95,
+    "successor_task_id": 190,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 249,
+    "successor_task_id": 74,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 74,
+    "successor_task_id": 13,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 190,
+    "successor_task_id": 107,
+    "dependency_type": "Finish-to-Finish",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 107,
+    "successor_task_id": 215,
+    "dependency_type": "Start-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 218,
+    "successor_task_id": 207,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 107,
+    "successor_task_id": 293,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 293,
+    "successor_task_id": 155,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 57,
+    "successor_task_id": 283,
+    "dependency_type": "Finish-to-Finish",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 293,
+    "successor_task_id": 158,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 155,
+    "successor_task_id": 266,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 158,
+    "successor_task_id": 29,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 260,
+    "successor_task_id": 290,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 260,
+    "successor_task_id": 35,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 204,
+    "successor_task_id": 89,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 35,
+    "successor_task_id": 85,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 244,
+    "successor_task_id": 130,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 85,
+    "successor_task_id": 224,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 56,
+    "successor_task_id": 98,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 98,
+    "successor_task_id": 227,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 227,
+    "successor_task_id": 93,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 93,
+    "successor_task_id": 186,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 105,
+    "successor_task_id": 200,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 196,
+    "successor_task_id": 230,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 200,
+    "successor_task_id": 83,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 15,
+    "successor_task_id": 234,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 15,
+    "successor_task_id": 271,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 15,
+    "successor_task_id": 289,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 289,
+    "successor_task_id": 189,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 289,
+    "successor_task_id": 240,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 189,
+    "successor_task_id": 38,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 38,
+    "successor_task_id": 231,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 184,
+    "successor_task_id": 40,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 40,
+    "successor_task_id": 45,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 257,
+    "successor_task_id": 237,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 237,
+    "successor_task_id": 88,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 45,
+    "successor_task_id": 60,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 45,
+    "successor_task_id": 133,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 133,
+    "successor_task_id": 192,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 5
+  },
+  {
+    "predecessor_task_id": 133,
+    "successor_task_id": 31,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 0
+  },
+  {
+    "predecessor_task_id": 31,
+    "successor_task_id": 44,
+    "dependency_type": "Start-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 25,
+    "successor_task_id": 146,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 146,
+    "successor_task_id": 19,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 25,
+    "successor_task_id": 92,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 2
+  },
+  {
+    "predecessor_task_id": 146,
+    "successor_task_id": 238,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 19,
+    "successor_task_id": 219,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 23,
+    "successor_task_id": 28,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 103,
+    "successor_task_id": 161,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 119,
+    "successor_task_id": 163,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 163,
+    "successor_task_id": 209,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 1
+  },
+  {
+    "predecessor_task_id": 209,
+    "successor_task_id": 280,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 4
+  },
+  {
+    "predecessor_task_id": 280,
+    "successor_task_id": 261,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  },
+  {
+    "predecessor_task_id": 197,
+    "successor_task_id": 162,
+    "dependency_type": "Finish-to-Start",
+    "lag_days": 3
+  }
+]
