@@ -1,0 +1,11 @@
+# Projexa (FYP): Python dependencies
+# Install from the project root with:
+#   python -m pip install -r requirements.txt
+
+# AI service (ai_service/)
+fastapi
+uvicorn
+pydantic
+
+# Synthetic data generator (synthetic_data/)
+faker
